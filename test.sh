@@ -1,0 +1,1 @@
+python -m torch.distributed.launch tools/test.py --dataset=HPA18

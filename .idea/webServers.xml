@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cbaccb16-d56f-40c4-95d2-2c3ee4226708" name="bioinf">
+        <fileTransfer accessType="SFTP" host="10.12.179.43" port="22" sshConfigId="a2015183-c179-41e9-a61d-bb4dba346555" sshConfig="bioinf@10.12.179.43:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="240000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

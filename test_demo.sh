@@ -1,0 +1,1 @@
+python -m torch.distributed.launch tools/test_demo.py --dataset=HPA18 --single_image_path=./assets/Cytopl\;Mito/55449_A_1_2.jpg

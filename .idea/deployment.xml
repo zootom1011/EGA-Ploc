@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="bioinf" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="bioinf">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/T19/hxy/AIPLoc" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bioinf@10.12.179.43:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/T19/hxy/Vislocas-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
