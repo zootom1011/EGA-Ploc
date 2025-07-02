@@ -1,6 +1,6 @@
-# ETPLoc
+# EGA-Ploc
 
-In this work, we propose ETPloc, an efficient deep learning tool that integrates a novel linear attention mechanism for efficiently and effectively acquiring discriminative representations from IHC images, a hierarchical multi-scale architecture  to preserve both fine-grained subcellular patterns and global spatial context, and an enhanced  multi-label objective function to counteract dataset imbalance. By jointly optimizing representation  learning and class distribution modeling, ETPloc overcomes the limitations of existing patch-based  or downsampling-reliant approaches.
+In this work, we propose EGA-Ploc, an efficient deep learning tool that integrates a novel linear attention mechanism for efficiently and effectively acquiring discriminative representations from IHC images, a hierarchical multi-scale architecture  to preserve both fine-grained subcellular patterns and global spatial context, and an enhanced  multi-label objective function to counteract dataset imbalance. By jointly optimizing representation learning and class distribution modeling, EGA-Ploc overcomes the limitations of existing patch-based or downsampling-reliant approaches.
 
 ## 1. Platform and Dependency
 
@@ -86,9 +86,9 @@ The following files should be placed directly in the `data` directory.
 
 > This folder stores model-related code files, including Visloacas model code, loss function code, and model training-related code.
 
-* ETPLoc
+* EGA-Ploc
   
-  > This file includes ETPLoc model code.
+  > This file includes EGA-Ploc model code.
 
 * classifier_model.py
   
@@ -116,11 +116,11 @@ The following files should be placed directly in the `data` directory.
 
 * test.py
   
-  > This file includes model testing code. Depending on the user input parameters, the performance of ETPLoc on Vislocas and HPA18 datasets can be tested separately
+  > This file includes model testing code. Depending on the user input parameters, the performance of EGA-Ploc on Vislocas and HPA18 datasets can be tested separately
 
 * test_demo.py
   
-  > This file contains the code for ETPLoc to test a single IHC image. To run the code in this file, run test_demo.sh in the project root directory
+  > This file contains the code for EGA-Ploc to test a single IHC image. To run the code in this file, run test_demo.sh in the project root directory
 
 
 ### 2.9 utils
@@ -171,14 +171,20 @@ You can get the original image needed for this file in two ways:
 1. (Recommand) Download from < https://pan.baidu.com/s/1W8LA4P8uIW2SKcZ3sJuQaw>, the password is `rkjb`. **"IHC"** folder includes the image of Vislocas dataset, and **"HPA18"** folder includes the image of HPA18 dataset. If the website does not work, you can contact the corresponding author for the original image.
 2. Download the original image via the `URL` column within the data annotation file
 
-### 3.3 Install the environment.
+### 3.3 Download the checkpoint (Options)
+if you want to test the model, you should download checkpoint file from (url is coming), **AIPLoc_fa_4_cl1_3000_wd-005_best_model.pth** represents the best weight trained from Vislocas dataset and **AIPLoc_fa_4_dcl1_3000_wd-005_mlce_best_model.pth** denotes the best weight trained from HPA-18 dataset.
+
+1. put **AIPLoc_fa_4_cl1_3000_wd-005_best_model.pth** into "results -> IHC -> AIPLoc_fa_4_cl1_3000_wd-005_mlce" path and rename the checkpoint file to "best_model.pth".
+2. put **AIPLoc_fa_4_dcl1_3000_wd-005_mlce_best_model.pth** into "results -> HPA18 -> AIPLoc_discount_fa_4_cl1_3000_wd-005_mlce" path and rename the checkpoint file to "best_model.pth".
+
+### 3.4 Install the environment.
 
 Before you start, we recommend that you install the python environment management tool `Anaconda`. Afterwards, go to the project root environment in the console interface and execute the command  `conda env create -f environment.yml`
 
-### 3.4 Start to Test
+### 3.5 Start to Test
 
 - When you need to test the entire dataset, run the `test.sh` file in the root directory.
-- When you need to quickly test the effectiveness of the model predictions, you can run `test_demo.sh` to get test results for a single image. In this step, you can test the effect of ETPLoc trained on different datasets by adjusting the following parameters:
+- When you need to quickly test the effectiveness of the model predictions, you can run `test_demo.sh` to get test results for a single image. In this step, you can test the effect of EGA-Ploc trained on different datasets by adjusting the following parameters:
 
 | Parameters        | default                              | Descriptrion                                                                      |
 | ----------------- | ------------------------------------ | --------------------------------------------------------------------------------- |
