@@ -2,6 +2,8 @@
 
 In this work, we propose EGA-Ploc, an efficient deep learning tool that integrates a novel linear attention mechanism for efficiently and effectively acquiring discriminative representations from IHC images, a hierarchical multi-scale architecture  to preserve both fine-grained subcellular patterns and global spatial context, and an enhanced  multi-label objective function to counteract dataset imbalance. By jointly optimizing representation learning and class distribution modeling, EGA-Ploc overcomes the limitations of existing patch-based or downsampling-reliant approaches.
 
+Online demo is available now🎉🎉🎉 Anyone can quickly experience our model by visiting this link: <https://huggingface.co/spaces/austinx25/EGA-Ploc>
+
 ## 1. Platform and Dependency
 
 ### 1.1 Platform
@@ -172,7 +174,7 @@ You can get the original image needed for this file in two ways:
 2. Download the original image via the `URL` column within the data annotation file
 
 ### 3.3 Download the checkpoint (Options)
-if you want to test the model, you should download checkpoint file from (url is coming), **AIPLoc_fa_4_cl1_3000_wd-005_best_model.pth** represents the best weight trained from Vislocas dataset and **AIPLoc_fa_4_dcl1_3000_wd-005_mlce_best_model.pth** denotes the best weight trained from HPA-18 dataset.
+if you want to test the model, you should download checkpoint file from <https://jxstnueducn-my.sharepoint.com/:f:/g/personal/wanboyang_jxstnu_edu_cn/EpEDB3GcXMZFvRz9lQaBHswBYTEWUDF6ThPBHWqEPB-eUQ?e=jsSoY0> (<https://pan.baidu.com/s/1nxflmaSpQkhEF0src_Tt3w> specially for Chinese researcher, the password is `pusd`) **AIPLoc_fa_4_cl1_3000_wd-005_best_model.pth** represents the best weight trained from Vislocas dataset and **AIPLoc_fa_4_dcl1_3000_wd-005_mlce_best_model.pth** denotes the best weight trained from HPA-18 dataset.
 
 1. put **AIPLoc_fa_4_cl1_3000_wd-005_best_model.pth** into "results -> IHC -> AIPLoc_fa_4_cl1_3000_wd-005_mlce" path and rename the checkpoint file to "best_model.pth".
 2. put **AIPLoc_fa_4_dcl1_3000_wd-005_mlce_best_model.pth** into "results -> HPA18 -> AIPLoc_discount_fa_4_cl1_3000_wd-005_mlce" path and rename the checkpoint file to "best_model.pth".
