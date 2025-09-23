@@ -2,6 +2,11 @@
 
 In this work, we propose EGA-Ploc, an efficient deep learning tool that integrates a novel linear attention mechanism for efficiently and effectively acquiring discriminative representations from IHC images, a hierarchical multi-scale architecture  to preserve both fine-grained subcellular patterns and global spatial context, and an enhanced  multi-label objective function to counteract dataset imbalance. By jointly optimizing representation learning and class distribution modeling, EGA-Ploc overcomes the limitations of existing patch-based or downsampling-reliant approaches.
 
+This repository contains the official code for our paper: [EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subcellular Localization Prediction on the Immunohistochemistry Images](https://ieeexplore.ieee.org/document/11175487)
+
++ Sep 2025: This work is accepted by IEEE Journal of Biomedical and Health Informatics.😃
++ Sep 2025: We will release training code in the middle of October.
+
 Online demo is available now🎉🎉🎉 Anyone can quickly experience our model by visiting this link: <https://huggingface.co/spaces/austinx25/EGA-Ploc>
 
 ## 1. Platform and Dependency
