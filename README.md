@@ -51,7 +51,7 @@ The following files should be placed directly in the `data` directory.
 | File            | Descriptrion                      |
 | --------------- | --------------------------------- |
 | data_train.csv  | The full training set of Vislocas |
-| HPA18_train.csv | The full training set of HPA18    |
+| data_test.csv   | The test set of Vislocas          |
 | HPA18_train.csv | The full training set of HPA18    |
 | HPA18_test.csv  | The test set of HPA18             |
 
