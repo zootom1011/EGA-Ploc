@@ -1,0 +1,1014 @@
+Index,Protein Name,Protein Id,Antibody Id,Reliability Verification,Tissue,Organ,Staining Level,Intensity Level,Quantity,locations,URL,Cytoplasm,Golgi Apparatus,Mitochondria,Nucleus,Endoplasmic Reticulum,Plasma Membrane,Vesicles,Cytoskeleton,Nucleoli,Lysosomes
+7258,GCN1,ENSG00000089154,HPA019648,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/45731_A_7_4.jpg,1,0,0,0,0,0,0,0,0,0
+6400,EIF4G2,ENSG00000110321,HPA016965,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/39650_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+6011,HSPB1,ENSG00000106211,CAB004439,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/17421_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6936,RGP1,ENSG00000107185,HPA021085,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/51480_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6479,CARS1,ENSG00000110619,HPA002383,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/8115_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+7180,NAPEPLD,ENSG00000161048,HPA024338,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/55150_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6658,XPNPEP1,ENSG00000108039,CAB025196,supported,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/55909_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6779,EDC4,ENSG00000038358,HPA041164,supported,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/86352_A_1_5.jpg,1,0,0,0,0,0,0,0,0,0
+6807,CARS1,ENSG00000110619,CAB075735,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/159319_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6954,SERBP1,ENSG00000142864,HPA020559,supported,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/47068_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+6122,ZC3HAV1,ENSG00000105939,HPA047818,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/107454_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6308,AARS1,ENSG00000090861,HPA040870,supported,Liver,Liver & gallbladder,high;medium,strong;moderate,>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/86642_A_7_4.jpg,1,0,0,0,0,0,0,0,0,0
+6710,KRT18,ENSG00000111057,HPA001605,supported,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/4924_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6786,TRAF2,ENSG00000127191,CAB004603,uncertain,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/13959_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+6313,EPHX2,ENSG00000120915,HPA023660,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/52374_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6682,XPNPEP1,ENSG00000108039,HPA030422,supported,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/65710_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+7350,EIF3G,ENSG00000130811,HPA041997,approved,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/90607_A_1_5.jpg,1,0,0,0,0,0,0,0,0,0
+7157,KIAA0753,ENSG00000198920,HPA023057,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/50726_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6944,NDUFAF1,ENSG00000137806,HPA039933,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/95296_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6558,XPNPEP1,ENSG00000108039,CAB025196,supported,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/55909_A_1_5.jpg,1,0,0,0,0,0,0,0,0,0
+6528,CARS1,ENSG00000110619,CAB075735,supported,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/159319_A_1_5.jpg,1,0,0,0,0,0,0,0,0,0
+6876,EIF3J,ENSG00000104131,HPA050977,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/121025_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6641,SH2D4A,ENSG00000104611,HPA001919,approved,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/6516_A_7_4.jpg,1,0,0,0,0,0,0,0,0,0
+6599,MAPK6,ENSG00000069956,HPA030262,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/63310_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6014,PAFAH1B1,ENSG00000007168,HPA020036,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/45863_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6720,TNS1,ENSG00000079308,HPA036090,approved,Breast,Female tissues,medium;low;not detected,moderate;weak;negative,>75%;75%-25%;none,Cytoplasm,dataset/HPA-18/Cytoplasm/95079_B_1_4.jpg,1,0,0,0,0,0,0,0,0,0
+6322,PRRC2C,ENSG00000117523,HPA028659,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/59410_A_1_5.jpg,1,0,0,0,0,0,0,0,0,0
+6418,TXNL1,ENSG00000091164,CAB016446,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/37925_B_2_4.jpg,1,0,0,0,0,0,0,0,0,0
+6987,TSC1,ENSG00000165699,CAB012481,supported,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/33717_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+6972,EIF3G,ENSG00000130811,HPA041997,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/90607_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6845,CDAN1,ENSG00000140326,HPA040787,supported,Liver,Liver & gallbladder,high;not detected,strong;negative,>75%;none,Cytoplasm,dataset/HPA-18/Cytoplasm/90421_A_7_4.jpg,1,0,0,0,0,0,0,0,0,0
+6695,TRAF2,ENSG00000127191,CAB004603,uncertain,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/13959_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6116,ST13,ENSG00000100380,HPA046412,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/126007_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6050,KRT4,ENSG00000170477,CAB002154,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/6020_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6967,EIF4E,ENSG00000151247,CAB004077,supported,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/11592_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+5956,IMPDH1,ENSG00000106348,HPA001400,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/5501_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6933,CALB2,ENSG00000172137,HPA007306,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/18329_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6146,GSDME,ENSG00000105928,CAB019306,approved,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/43324_B_1_4.jpg,1,0,0,0,0,0,0,0,0,0
+6294,PREP,ENSG00000085377,HPA031390,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/115329_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6204,TXNDC9,ENSG00000115514,HPA031846,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/69927_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6334,YARS1,ENSG00000134684,HPA017936,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/43882_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6307,CDK5RAP2,ENSG00000136861,HPA046529,approved,Liver,Liver & gallbladder,medium;low,moderate;weak,>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/162494_A_9_4.jpg,1,0,0,0,0,0,0,0,0,0
+6508,RARS1,ENSG00000113643,HPA003979,approved,Breast,Female tissues,medium;high;low,moderate;strong;weak,>75%;>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/17093_B_3_4.jpg,1,0,0,0,0,0,0,0,0,0
+7078,DARS1,ENSG00000115866,HPA029805,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/61627_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+7002,ADSL,ENSG00000239900,CAB019285,supported,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/42513_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+6563,LARP4,ENSG00000161813,HPA039306,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/89272_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+7068,SH2D4A,ENSG00000104611,HPA001919,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/6516_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6436,ABCE1,ENSG00000164163,CAB012476,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/31725_A_1_5.jpg,1,0,0,0,0,0,0,0,0,0
+5980,IMPDH1,ENSG00000106348,HPA001400,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/5501_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+5930,SH3GLB1,ENSG00000097033,CAB004650,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/13201_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+7096,SEPTIN9,ENSG00000184640,HPA042564,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/93180_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6980,SH2B2,ENSG00000160999,HPA051131,uncertain,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/116347_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6408,EIF3J,ENSG00000104131,HPA050977,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/121025_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6295,RARS1,ENSG00000113643,HPA003979,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/17093_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6103,HARS1,ENSG00000170445,HPA036539,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;75%-25%,Cytoplasm,dataset/HPA-18/Cytoplasm/75988_A_7_4.jpg,1,0,0,0,0,0,0,0,0,0
+6679,PRKCD,ENSG00000163932,HPA001890,supported,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/6252_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+6132,CSDE1,ENSG00000009307,HPA018846,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/43732_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6707,SH3GLB1,ENSG00000097033,CAB004650,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Cytoplasm,dataset/HPA-18/Cytoplasm/13201_A_7_4.jpg,1,0,0,0,0,0,0,0,0,0
+6992,ATXN2,ENSG00000204842,HPA021146,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/56489_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6794,IMPDH2,ENSG00000178035,CAB020717,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/46628_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6253,PSAPL1,ENSG00000178597,HPA038013,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/80093_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6635,LDHB,ENSG00000111716,CAB004641,enhanced,Liver,Liver & gallbladder,high;not detected,strong;negative,>75%;none,Cytoplasm,dataset/HPA-18/Cytoplasm/15448_A_8_4.jpg,1,0,0,0,0,0,0,0,0,0
+6211,LIF,ENSG00000128342,HPA018844,uncertain,Breast,Female tissues,medium;low;medium,moderate;weak;moderate,>75%;>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/43353_B_1_4.jpg,1,0,0,0,0,0,0,0,0,0
+6932,TIGAR,ENSG00000078237,HPA040354,approved,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/106310_A_8_4.jpg,1,0,0,0,0,0,0,0,0,0
+7191,EPHX2,ENSG00000120915,HPA023094,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/52398_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6371,UBA5,ENSG00000081307,HPA017235,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/39706_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+7363,UBE2I,ENSG00000103275,CAB009021,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/25618_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6731,RARS1,ENSG00000113643,HPA003979,approved,Breast,Female tissues,medium;high;low,moderate;strong;weak,>75%;>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/17093_B_1_4.jpg,1,0,0,0,0,0,0,0,0,0
+6185,PLEC,ENSG00000178209,HPA029906,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/64070_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6911,MVP,ENSG00000013364,CAB022717,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/51051_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6117,FMR1,ENSG00000102081,HPA056084,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/135535_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6077,TTC1,ENSG00000113312,HPA036557,approved,Breast,Female tissues,medium;low;low,moderate;weak;weak,>75%;75%-25%;75%-25%,Cytoplasm,dataset/HPA-18/Cytoplasm/77804_B_3_4.jpg,1,0,0,0,0,0,0,0,0,0
+6645,NFKBIA,ENSG00000100906,HPA029207,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/62309_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6317,SERBP1,ENSG00000142864,CAB026297,supported,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/57240_A_1_5.jpg,1,0,0,0,0,0,0,0,0,0
+6618,MARS1,ENSG00000166986,CAB017097,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/38706_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+7045,SH2D4A,ENSG00000104611,HPA001871,enhanced,Liver,Liver & gallbladder,high;medium,strong;moderate,>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/6706_A_7_4.jpg,1,0,0,0,0,0,0,0,0,0
+6481,USH1C,ENSG00000006611,HPA027398,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/60007_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6937,RARS1,ENSG00000113643,HPA003979,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/17093_A_8_4.jpg,1,0,0,0,0,0,0,0,0,0
+6941,TWF1,ENSG00000151239,HPA018116,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/41238_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+7020,PPP1R13L,ENSG00000104881,HPA059883,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/133996_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6121,XPNPEP1,ENSG00000108039,CAB025196,supported,Liver,Liver & gallbladder,medium;low,moderate;weak,>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/55909_A_9_4.jpg,1,0,0,0,0,0,0,0,0,0
+5950,ATPAF2,ENSG00000171953,HPA023329,supported,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/50974_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+6691,GSDME,ENSG00000105928,HPA011326,approved,Liver,Liver & gallbladder,medium;low,moderate;moderate,>75%;<25%,Cytoplasm,dataset/HPA-18/Cytoplasm/30845_A_8_4.jpg,1,0,0,0,0,0,0,0,0,0
+6424,XPNPEP1,ENSG00000108039,HPA030422,supported,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/65710_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+7344,GCN1,ENSG00000089154,HPA024367,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/53669_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+7306,EIF4G2,ENSG00000110321,HPA016965,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/39650_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6007,PREP,ENSG00000085377,CAB025414,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/55920_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+7279,ST13,ENSG00000100380,HPA043233,enhanced,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/126017_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6813,CDC42,ENSG00000070831,CAB004360,approved,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/12044_B_1_4.jpg,1,0,0,0,0,0,0,0,0,0
+6480,PSAPL1,ENSG00000178597,HPA038013,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/80093_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+7285,YARS1,ENSG00000134684,HPA017936,enhanced,Liver,Liver & gallbladder,high;not detected,strong;weak,>75%;<25%,Cytoplasm,dataset/HPA-18/Cytoplasm/43882_A_8_4.jpg,1,0,0,0,0,0,0,0,0,0
+6692,ATXN2,ENSG00000204842,HPA020339,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/56481_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6157,TGS1,ENSG00000137574,HPA025024,supported,Liver,Liver & gallbladder,medium;low,moderate;moderate,>75%;<25%,Cytoplasm,dataset/HPA-18/Cytoplasm/54964_A_9_4.jpg,1,0,0,0,0,0,0,0,0,0
+5929,COX19,ENSG00000240230,HPA021226,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/48125_A_1_5.jpg,1,0,0,0,0,0,0,0,0,0
+6231,UBA5,ENSG00000081307,HPA017235,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/39706_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6516,MYO19,ENSG00000278259,HPA059715,approved,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/159906_A_1_5.jpg,1,0,0,0,0,0,0,0,0,0
+6303,ANKRD34A,ENSG00000272031,HPA029643,uncertain,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/64811_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+7213,LDHB,ENSG00000111716,CAB004641,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/15448_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6082,HSPB1,ENSG00000106211,CAB047331,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/104843_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6756,YARS1,ENSG00000134684,HPA018954,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/43886_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+5936,PAFAH1B1,ENSG00000007168,HPA020036,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/45863_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6562,TIGAR,ENSG00000078237,HPA044111,approved,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/132856_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+7070,GSDME,ENSG00000105928,HPA011326,approved,Liver,Liver & gallbladder,medium;low,moderate;moderate,>75%;<25%,Cytoplasm,dataset/HPA-18/Cytoplasm/30845_A_9_4.jpg,1,0,0,0,0,0,0,0,0,0
+6747,KLHDC8B,ENSG00000185909,HPA014467,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/33012_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+7183,XPNPEP1,ENSG00000108039,CAB025196,supported,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/55909_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+6478,CALCOCO1,ENSG00000012822,HPA038314,approved,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/81740_B_2_4.jpg,1,0,0,0,0,0,0,0,0,0
+7329,KIF5B,ENSG00000170759,HPA037589,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/142497_A_8_4.jpg,1,0,0,0,0,0,0,0,0,0
+6602,TIGAR,ENSG00000078237,CAB034010,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/68707_A_8_4.jpg,1,0,0,0,0,0,0,0,0,0
+6873,ABCF1,ENSG00000204574,HPA017578,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/40308_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6105,EIF4G2,ENSG00000110321,HPA016965,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/39650_A_1_5.jpg,1,0,0,0,0,0,0,0,0,0
+6891,SHC1,ENSG00000160691,CAB005374,supported,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/27882_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6615,CALCOCO1,ENSG00000012822,HPA038313,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/81723_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6426,TTI2,ENSG00000129696,HPA029823,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/63445_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6998,ADCY5,ENSG00000173175,HPA017730,uncertain,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/40401_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6390,APEH,ENSG00000164062,HPA029700,enhanced,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/63282_A_1_5.jpg,1,0,0,0,0,0,0,0,0,0
+6772,PAFAH1B1,ENSG00000007168,HPA020036,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/45863_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6663,NME1-NME2,ENSG00000011052,HPA041113,approved,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/107544_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+6168,LIF,ENSG00000128342,HPA018844,uncertain,Liver,Liver & gallbladder,medium;not detected,moderate;weak,>75%;<25%,Cytoplasm,dataset/HPA-18/Cytoplasm/43353_A_7_4.jpg,1,0,0,0,0,0,0,0,0,0
+5937,ST13,ENSG00000100380,HPA047114,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/126042_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+7253,TXNDC9,ENSG00000115514,HPA031846,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/69927_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6375,PREP,ENSG00000085377,HPA031388,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/115403_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+7100,MVP,ENSG00000013364,CAB022717,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/51051_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6192,CARS1,ENSG00000110619,CAB075737,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/159327_B_2_4.jpg,1,0,0,0,0,0,0,0,0,0
+6871,PUM2,ENSG00000055917,HPA030316,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/68421_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+7131,OXSR1,ENSG00000172939,HPA008237,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Cytoplasm,dataset/HPA-18/Cytoplasm/23774_A_8_4.jpg,1,0,0,0,0,0,0,0,0,0
+6301,FAM120A,ENSG00000048828,HPA055800,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/140536_A_4_5.jpg,1,0,0,0,0,0,0,0,0,0
+6721,CDAN1,ENSG00000140326,HPA039404,supported,Liver,Liver & gallbladder,high;medium,strong;moderate,>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/82995_A_9_4.jpg,1,0,0,0,0,0,0,0,0,0
+6259,SH2D4A,ENSG00000104611,HPA001871,enhanced,Liver,Liver & gallbladder,high;medium,strong;moderate,>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/6706_A_8_4.jpg,1,0,0,0,0,0,0,0,0,0
+6685,SHC1,ENSG00000160691,CAB016305,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/36379_B_1_4.jpg,1,0,0,0,0,0,0,0,0,0
+7248,CDAN1,ENSG00000140326,HPA039404,supported,Prostate,Male tissues,high,strong,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/82995_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6046,RRM1,ENSG00000167325,HPA064297,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/143808_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+6787,PCNT,ENSG00000160299,HPA016820,uncertain,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/47206_A_6_5.jpg,1,0,0,0,0,0,0,0,0,0
+7039,PPP1R12A,ENSG00000058272,HPA071956,approved,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Cytoplasm,dataset/HPA-18/Cytoplasm/163279_A_9_4.jpg,1,0,0,0,0,0,0,0,0,0
+7312,AIMP1,ENSG00000164022,HPA018476,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/44488_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+6003,OLA1,ENSG00000138430,HPA035790,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;75%-25%,Cytoplasm,dataset/HPA-18/Cytoplasm/70607_A_8_4.jpg,1,0,0,0,0,0,0,0,0,0
+6246,CARS1,ENSG00000110619,CAB075736,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/159323_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+7154,YARS1,ENSG00000134684,HPA017936,enhanced,Liver,Liver & gallbladder,high;not detected,strong;weak,>75%;<25%,Cytoplasm,dataset/HPA-18/Cytoplasm/43882_A_9_4.jpg,1,0,0,0,0,0,0,0,0,0
+6382,IRF6,ENSG00000117595,HPA063121,enhanced,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/154587_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6037,PSMF1,ENSG00000125818,HPA041300,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/95088_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+6960,TSC2,ENSG00000103197,CAB002225,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/6110_A_5_5.jpg,1,0,0,0,0,0,0,0,0,0
+7011,MVP,ENSG00000013364,CAB022717,supported,Liver,Liver & gallbladder,medium;low,moderate;moderate,>75%;<25%,Cytoplasm,dataset/HPA-18/Cytoplasm/51051_A_9_4.jpg,1,0,0,0,0,0,0,0,0,0
+7046,PRKCD,ENSG00000163932,HPA001890,supported,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/6252_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+7210,KLHDC8B,ENSG00000185909,HPA008463,approved,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/23738_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+6776,AARS1,ENSG00000090861,CAB034261,supported,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/86646_A_2_5.jpg,1,0,0,0,0,0,0,0,0,0
+7042,EIF2S1,ENSG00000134001,HPA064885,supported,Prostate,Male tissues,medium,moderate,>75%,Cytoplasm,dataset/HPA-18/Cytoplasm/144577_A_3_5.jpg,1,0,0,0,0,0,0,0,0,0
+4688,FUT8,ENSG00000033170,HPA043410,supported,Prostate,Male tissues,medium,moderate,>75%,"Cytoplasm,Golgi Apparatus","dataset/HPA-18/Cytoplasm,Golgi Apparatus/124424_A_1_5.jpg",1,1,0,0,0,0,0,0,0,0
+4704,OSBP,ENSG00000110048,HPA039227,enhanced,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,"Cytoplasm,Golgi Apparatus","dataset/HPA-18/Cytoplasm,Golgi Apparatus/85697_B_2_4.jpg",1,1,0,0,0,0,0,0,0,0
+4691,OSBP,ENSG00000110048,HPA043625,supported,Prostate,Male tissues,medium,moderate,>75%,"Cytoplasm,Golgi Apparatus","dataset/HPA-18/Cytoplasm,Golgi Apparatus/106698_A_1_5.jpg",1,1,0,0,0,0,0,0,0,0
+99,PRDX5,ENSG00000126432,CAB008661,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Cytoplasm,Mitochondria","dataset/HPA-18/Cytoplasm,Mitochondria/22813_A_4_5.jpg",1,0,1,0,0,0,0,0,0,0
+80,PRDX5,ENSG00000126432,HPA037916,supported,Prostate,Male tissues,medium,moderate,>75%,"Cytoplasm,Mitochondria","dataset/HPA-18/Cytoplasm,Mitochondria/124552_A_1_5.jpg",1,0,1,0,0,0,0,0,0,0
+95,PRDX5,ENSG00000126432,HPA037916,supported,Prostate,Male tissues,medium,moderate,>75%,"Cytoplasm,Mitochondria","dataset/HPA-18/Cytoplasm,Mitochondria/124552_A_3_5.jpg",1,0,1,0,0,0,0,0,0,0
+69,PRDX5,ENSG00000126432,HPA037916,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Cytoplasm,Mitochondria","dataset/HPA-18/Cytoplasm,Mitochondria/124552_A_4_5.jpg",1,0,1,0,0,0,0,0,0,0
+83,MYH10,ENSG00000133026,CAB017180,enhanced,Prostate,Male tissues,medium,moderate,>75%,"Cytoplasm,Mitochondria","dataset/HPA-18/Cytoplasm,Mitochondria/43027_A_1_5.jpg",1,0,1,0,0,0,0,0,0,0
+278,NAA10,ENSG00000102030,CAB006269,supported,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,"Cytoplasm,Nucleus","dataset/HPA-18/Cytoplasm,Nucleus/18782_B_3_4.jpg",1,0,0,1,0,0,0,0,0,0
+267,ZCCHC7,ENSG00000147905,HPA020600,uncertain,Breast,Female tissues,medium;medium,moderate;moderate,>75%;>75%,"Cytoplasm,Nucleus","dataset/HPA-18/Cytoplasm,Nucleus/47757_B_3_4.jpg",1,0,0,1,0,0,0,0,0,0
+289,ZCCHC7,ENSG00000147905,HPA020600,uncertain,Breast,Female tissues,medium;medium,moderate;moderate,>75%;>75%,"Cytoplasm,Nucleus","dataset/HPA-18/Cytoplasm,Nucleus/47757_B_2_4.jpg",1,0,0,1,0,0,0,0,0,0
+270,ZCCHC7,ENSG00000147905,HPA020600,uncertain,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Cytoplasm,Nucleus","dataset/HPA-18/Cytoplasm,Nucleus/47783_A_5_5.jpg",1,0,0,1,0,0,0,0,0,0
+4887,TMEM230,ENSG00000089063,HPA009078,uncertain,Liver,Liver & gallbladder,high;low,strong;weak,>75%;>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/24774_A_7_4.jpg,0,0,0,0,1,0,0,0,0,0
+4854,MTDH,ENSG00000147649,CAB068205,supported,Prostate,Male tissues,medium,moderate,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/152264_A_2_5.jpg,0,0,0,0,1,0,0,0,0,0
+5065,KTN1,ENSG00000126777,HPA017876,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;75%-25%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/46997_A_8_4.jpg,0,0,0,0,1,0,0,0,0,0
+5136,CLCC1,ENSG00000121940,HPA013210,supported,Liver,Liver & gallbladder,medium;low,moderate;weak,>75%;75%-25%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/30556_A_8_4.jpg,0,0,0,0,1,0,0,0,0,0
+4853,RRBP1,ENSG00000125844,HPA011924,supported,Prostate,Male tissues,medium,moderate,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/30186_A_3_5.jpg,0,0,0,0,1,0,0,0,0,0
+4918,PRKCSH,ENSG00000130175,CAB004465,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/20043_A_4_5.jpg,0,0,0,0,1,0,0,0,0,0
+5047,RRBP1,ENSG00000125844,HPA011924,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/30186_A_7_4.jpg,0,0,0,0,1,0,0,0,0,0
+5099,PDIA3,ENSG00000167004,HPA002645,enhanced,Liver,Liver & gallbladder,medium;low,moderate;weak,>75%;>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/11057_A_8_4.jpg,0,0,0,0,1,0,0,0,0,0
+4923,HSP90B1,ENSG00000166598,CAB005224,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/15657_A_5_5.jpg,0,0,0,0,1,0,0,0,0,0
+4880,BCAP31,ENSG00000185825,HPA003906,supported,Prostate,Male tissues,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/11734_A_1_5.jpg,0,0,0,0,1,0,0,0,0,0
+4999,LRRC59,ENSG00000108829,HPA030829,supported,Prostate,Male tissues,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/68698_A_1_5.jpg,0,0,0,0,1,0,0,0,0,0
+5001,MTDH,ENSG00000147649,CAB068205,supported,Prostate,Male tissues,medium,moderate,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/152264_A_1_5.jpg,0,0,0,0,1,0,0,0,0,0
+4864,HACD3,ENSG00000074696,HPA014837,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/33492_A_4_5.jpg,0,0,0,0,1,0,0,0,0,0
+4872,MTDH,ENSG00000147649,CAB068205,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/152264_A_6_5.jpg,0,0,0,0,1,0,0,0,0,0
+5090,PRKCSH,ENSG00000130175,HPA041940,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/126163_A_5_5.jpg,0,0,0,0,1,0,0,0,0,0
+5155,HSP90B1,ENSG00000166598,HPA003901,enhanced,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/21010_A_9_4.jpg,0,0,0,0,1,0,0,0,0,0
+5168,PRKCSH,ENSG00000130175,HPA041940,supported,Prostate,Male tissues,medium,moderate,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/126163_A_2_5.jpg,0,0,0,0,1,0,0,0,0,0
+5076,TMEM230,ENSG00000089063,HPA009078,uncertain,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/24774_A_6_5.jpg,0,0,0,0,1,0,0,0,0,0
+4974,HSP90B1,ENSG00000166598,HPA003901,enhanced,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/21010_B_3_4.jpg,0,0,0,0,1,0,0,0,0,0
+4848,RRBP1,ENSG00000125844,HPA011924,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/30186_A_8_4.jpg,0,0,0,0,1,0,0,0,0,0
+5029,PKD2,ENSG00000118762,HPA015794,approved,Prostate,Male tissues,medium,moderate,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/37909_A_3_5.jpg,0,0,0,0,1,0,0,0,0,0
+4996,PTPN1,ENSG00000196396,CAB009329,approved,Prostate,Male tissues,medium,moderate,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/30849_A_3_5.jpg,0,0,0,0,1,0,0,0,0,0
+5032,KTN1,ENSG00000126777,HPA017876,supported,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/46997_B_2_4.jpg,0,0,0,0,1,0,0,0,0,0
+5011,HACD3,ENSG00000074696,HPA014837,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/33492_A_5_5.jpg,0,0,0,0,1,0,0,0,0,0
+5022,HSP90B1,ENSG00000166598,CAB005224,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/15657_A_6_5.jpg,0,0,0,0,1,0,0,0,0,0
+4886,PTPN1,ENSG00000196396,HPA012542,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/30853_A_6_5.jpg,0,0,0,0,1,0,0,0,0,0
+5110,LRRC59,ENSG00000108829,HPA030829,supported,Prostate,Male tissues,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/68698_A_3_5.jpg,0,0,0,0,1,0,0,0,0,0
+5010,KTN1,ENSG00000126777,CAB015331,supported,Prostate,Male tissues,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/34561_A_2_5.jpg,0,0,0,0,1,0,0,0,0,0
+5145,TMEM230,ENSG00000089063,HPA009078,uncertain,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/24774_B_1_4.jpg,0,0,0,0,1,0,0,0,0,0
+5173,HACD3,ENSG00000074696,HPA014837,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/33492_A_6_5.jpg,0,0,0,0,1,0,0,0,0,0
+4900,PTPN1,ENSG00000196396,CAB009329,approved,Prostate,Male tissues,medium,moderate,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/30849_A_2_5.jpg,0,0,0,0,1,0,0,0,0,0
+4933,PTPN1,ENSG00000196396,CAB009329,approved,Prostate,Male tissues,medium,moderate,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/30849_A_1_5.jpg,0,0,0,0,1,0,0,0,0,0
+5009,CES1,ENSG00000198848,HPA046717,supported,Breast,Female tissues,medium;not detected;low,moderate;negative;weak,>75%;none;75%-25%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/154508_B_2_4.jpg,0,0,0,0,1,0,0,0,0,0
+4988,KTN1,ENSG00000126777,CAB015331,supported,Prostate,Male tissues,high,strong,>75%,Endoplasmic Reticulum,dataset/HPA-18/Endoplasmic Reticulum/34561_A_1_5.jpg,0,0,0,0,1,0,0,0,0,0
+9247,RPS6,ENSG00000137154,CAB004027,approved,Prostate,Male tissues,medium,moderate,>75%,"Endoplasmic Reticulum,Cytoplasm","dataset/HPA-18/Endoplasmic Reticulum,Cytoplasm/11699_A_1_5.jpg",1,0,0,0,1,0,0,0,0,0
+9287,CAST,ENSG00000153113,HPA036881,approved,Prostate,Male tissues,medium,moderate,>75%,"Endoplasmic Reticulum,Cytoplasm","dataset/HPA-18/Endoplasmic Reticulum,Cytoplasm/136703_A_3_5.jpg",1,0,0,0,1,0,0,0,0,0
+9236,RPS14,ENSG00000164587,HPA018504,approved,Breast,Female tissues,medium;high;not detected,moderate;strong;negative,>75%;>75%;none,"Endoplasmic Reticulum,Cytoplasm","dataset/HPA-18/Endoplasmic Reticulum,Cytoplasm/42140_B_3_4.jpg",1,0,0,0,1,0,0,0,0,0
+9243,RPS6,ENSG00000137154,HPA031153,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Endoplasmic Reticulum,Cytoplasm","dataset/HPA-18/Endoplasmic Reticulum,Cytoplasm/63143_A_6_5.jpg",1,0,0,0,1,0,0,0,0,0
+9244,RPS23,ENSG00000186468,HPA054853,approved,Prostate,Male tissues,medium,moderate,>75%,"Endoplasmic Reticulum,Cytoplasm","dataset/HPA-18/Endoplasmic Reticulum,Cytoplasm/127000_A_2_5.jpg",1,0,0,0,1,0,0,0,0,0
+9264,RPS14,ENSG00000164587,HPA018504,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Endoplasmic Reticulum,Cytoplasm","dataset/HPA-18/Endoplasmic Reticulum,Cytoplasm/42140_A_5_5.jpg",1,0,0,0,1,0,0,0,0,0
+9280,RPS6,ENSG00000137154,CAB004027,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Endoplasmic Reticulum,Cytoplasm","dataset/HPA-18/Endoplasmic Reticulum,Cytoplasm/11699_A_6_5.jpg",1,0,0,0,1,0,0,0,0,0
+7378,RPS3A,ENSG00000145425,HPA047100,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Endoplasmic Reticulum,Cytoplasm,Nucleus","dataset/HPA-18/Endoplasmic Reticulum,Cytoplasm,Nucleus/105808_A_5_5.jpg",1,0,0,1,1,0,0,0,0,0
+7371,RPL29,ENSG00000162244,HPA069064,approved,Prostate,Male tissues,medium,moderate,>75%,"Endoplasmic Reticulum,Cytoplasm,Nucleus","dataset/HPA-18/Endoplasmic Reticulum,Cytoplasm,Nucleus/153251_A_1_5.jpg",1,0,0,1,1,0,0,0,0,0
+5775,TBC1D23,ENSG00000036054,HPA038151,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/81129_A_4_5.jpg,0,1,0,0,0,0,0,0,0,0
+5693,ZFPL1,ENSG00000162300,HPA014909,enhanced,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/33940_A_7_4.jpg,0,1,0,0,0,0,0,0,0,0
+5861,SLC38A10,ENSG00000157637,HPA021374,enhanced,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/48351_B_2_4.jpg,0,1,0,0,0,0,0,0,0,0
+5895,GOPC,ENSG00000047932,HPA019477,approved,Prostate,Male tissues,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/46131_A_2_5.jpg,0,1,0,0,0,0,0,0,0,0
+5885,GALNT7,ENSG00000109586,HPA064243,enhanced,Prostate,Male tissues,high,strong,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/144785_A_1_5.jpg,0,1,0,0,0,0,0,0,0,0
+5792,EBAG9,ENSG00000147654,HPA021153,enhanced,Prostate,Male tissues,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/47753_A_2_5.jpg,0,1,0,0,0,0,0,0,0,0
+5705,COPE,ENSG00000105669,CAB034345,supported,Prostate,Male tissues,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/74809_A_3_5.jpg,0,1,0,0,0,0,0,0,0,0
+5785,GOLM1,ENSG00000135052,HPA011929,supported,Prostate,Male tissues,high,strong,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/29073_A_2_5.jpg,0,1,0,0,0,0,0,0,0,0
+5777,TRIP11,ENSG00000100815,HPA002570,supported,Prostate,Male tissues,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/7122_A_2_5.jpg,0,1,0,0,0,0,0,0,0,0
+5689,GOLGA2,ENSG00000167110,HPA021178,supported,Prostate,Male tissues,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/49338_A_1_5.jpg,0,1,0,0,0,0,0,0,0,0
+5679,COG5,ENSG00000164597,HPA020300,uncertain,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/47072_A_5_5.jpg,0,1,0,0,0,0,0,0,0,0
+5808,GGA2,ENSG00000103365,CAB034422,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/76421_A_4_5.jpg,0,1,0,0,0,0,0,0,0,0
+5836,NUCB2,ENSG00000070081,HPA008395,approved,Prostate,Male tissues,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/23609_A_1_5.jpg,0,1,0,0,0,0,0,0,0,0
+5706,GOLIM4,ENSG00000173905,HPA001677,enhanced,Prostate,Male tissues,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/7405_A_2_5.jpg,0,1,0,0,0,0,0,0,0,0
+5685,GOLGA2,ENSG00000167110,HPA021799,supported,Prostate,Male tissues,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/49330_A_1_5.jpg,0,1,0,0,0,0,0,0,0,0
+5669,GOLGB1,ENSG00000173230,HPA011555,supported,Prostate,Male tissues,high,strong,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/27059_A_3_5.jpg,0,1,0,0,0,0,0,0,0,0
+5758,FAM3C,ENSG00000196937,HPA050548,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/115664_A_4_5.jpg,0,1,0,0,0,0,0,0,0,0
+5763,EBAG9,ENSG00000147654,HPA021153,enhanced,Prostate,Male tissues,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/47753_A_3_5.jpg,0,1,0,0,0,0,0,0,0,0
+5617,B4GALT1,ENSG00000086062,HPA010807,supported,Prostate,Male tissues,high,strong,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/25896_A_2_5.jpg,0,1,0,0,0,0,0,0,0,0
+5905,AKAP9,ENSG00000127914,CAB012909,supported,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/31774_B_3_4.jpg,0,1,0,0,0,0,0,0,0,0
+5692,GOLIM4,ENSG00000173905,HPA001677,enhanced,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/7405_A_9_4.jpg,0,1,0,0,0,0,0,0,0,0
+5848,SYAP1,ENSG00000169895,HPA000175,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/508_A_6_5.jpg,0,1,0,0,0,0,0,0,0,0
+5752,TBC1D23,ENSG00000036054,HPA038152,approved,Prostate,Male tissues,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/81133_A_3_5.jpg,0,1,0,0,0,0,0,0,0,0
+5642,GOPC,ENSG00000047932,HPA019477,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/46131_A_6_5.jpg,0,1,0,0,0,0,0,0,0,0
+5761,SLC38A10,ENSG00000157637,HPA023161,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/49970_B_2_4.jpg,0,1,0,0,0,0,0,0,0,0
+5730,GOLGA2,ENSG00000167110,HPA021178,supported,Prostate,Male tissues,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/49338_A_3_5.jpg,0,1,0,0,0,0,0,0,0,0
+5834,TRIP11,ENSG00000100815,HPA002570,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/7122_A_6_5.jpg,0,1,0,0,0,0,0,0,0,0
+5735,TRIP11,ENSG00000100815,HPA002570,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/7122_A_5_5.jpg,0,1,0,0,0,0,0,0,0,0
+5809,B4GALT1,ENSG00000086062,HPA010807,supported,Prostate,Male tissues,high,strong,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/25896_A_1_5.jpg,0,1,0,0,0,0,0,0,0,0
+5906,ZFPL1,ENSG00000162300,HPA014909,enhanced,Prostate,Male tissues,medium,moderate,>75%,Golgi Apparatus,dataset/HPA-18/Golgi Apparatus/33940_A_1_5.jpg,0,1,0,0,0,0,0,0,0,0
+8613,ACADS,ENSG00000122971,HPA022271,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/49334_A_9_4.jpg,0,0,1,0,0,0,0,0,0,0
+8362,CCM2,ENSG00000136280,HPA020273,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/46620_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+8373,TRAP1,ENSG00000126602,HPA044227,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/123229_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+8454,AARS2,ENSG00000124608,HPA035636,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/73287_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+7958,PNKD,ENSG00000127838,HPA010134,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/25337_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+8117,AARS2,ENSG00000124608,HPA035636,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/73287_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8098,UQCRFS1,ENSG00000169021,HPA050339,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/123782_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+8222,AFG3L2,ENSG00000141385,HPA004479,enhanced,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/13728_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+8310,LRPPRC,ENSG00000138095,CAB033786,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/76678_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8167,NDUFAF2,ENSG00000164182,HPA054776,supported,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/125341_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+8694,ATP5F1B,ENSG00000110955,HPA001520,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/4419_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+8808,HSPD1,ENSG00000144381,HPA001523,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/6960_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+7867,TRAP1,ENSG00000126602,HPA041082,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/123284_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+8231,BNIP3L,ENSG00000104765,CAB025371,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/54551_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8818,CS,ENSG00000062485,CAB075754,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/159299_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+8480,LETM1,ENSG00000168924,HPA011029,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/27588_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8134,ALDH6A1,ENSG00000119711,HPA029072,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/65853_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+7836,TXN2,ENSG00000100348,CAB008681,approved,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/23625_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+8132,BAD,ENSG00000002330,HPA028185,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/61308_A_8_4.jpg,0,0,1,0,0,0,0,0,0,0
+8777,CS,ENSG00000062485,HPA038461,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/94883_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+8532,TFAM,ENSG00000108064,HPA040648,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/90615_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+7813,TOMM20,ENSG00000173726,HPA011562,supported,Liver,Liver & gallbladder,medium;low,moderate;weak,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/26984_A_7_4.jpg,0,0,1,0,0,0,0,0,0,0
+8497,ETFA,ENSG00000140374,HPA018990,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/43550_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8321,MRPL10,ENSG00000159111,HPA029885,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/154186_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8476,MCCC2,ENSG00000131844,HPA038300,enhanced,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/80432_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+8112,ETFA,ENSG00000140374,HPA018990,enhanced,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/43550_A_1_5.jpg,0,0,1,0,0,0,0,0,0,0
+7975,TOMM20,ENSG00000173726,CAB005585,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/19776_A_7_4.jpg,0,0,1,0,0,0,0,0,0,0
+8595,ETFA,ENSG00000140374,HPA018996,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/43578_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+7902,SUCLA2,ENSG00000136143,HPA039536,supported,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/82124_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+7861,RMDN3,ENSG00000137824,HPA009975,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/152716_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+7795,TOMM20,ENSG00000173726,CAB005585,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/19776_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8695,MRPL10,ENSG00000159111,HPA021234,enhanced,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/48570_A_1_5.jpg,0,0,1,0,0,0,0,0,0,0
+8169,MDH2,ENSG00000146701,HPA019714,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/45347_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+8402,IARS2,ENSG00000067704,HPA024594,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/55257_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8094,ETFB,ENSG00000105379,HPA018910,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/43689_A_1_5.jpg,0,0,1,0,0,0,0,0,0,0
+8354,ETFB,ENSG00000105379,HPA018910,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/43689_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+8057,MCCC2,ENSG00000131844,HPA038301,supported,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/80423_A_1_5.jpg,0,0,1,0,0,0,0,0,0,0
+8490,PNPT1,ENSG00000138035,HPA034602,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/69309_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+8723,MDH2,ENSG00000146701,HPA019848,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/45351_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+7999,ME2,ENSG00000082212,HPA008247,enhanced,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/23241_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+8179,TRNT1,ENSG00000072756,HPA036938,uncertain,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/80603_A_1_5.jpg,0,0,1,0,0,0,0,0,0,0
+8375,CS,ENSG00000062485,CAB075753,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/159380_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+8796,VDAC2,ENSG00000165637,HPA043475,enhanced,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/93722_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+7966,NDUFA8,ENSG00000119421,HPA041510,enhanced,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/91517_B_3_4.jpg,0,0,1,0,0,0,0,0,0,0
+7755,TFAM,ENSG00000108064,HPA040648,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/90615_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8384,ETFB,ENSG00000105379,HPA018910,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/43689_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8102,ATP5F1B,ENSG00000110955,HPA001528,supported,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/4705_A_7_4.jpg,0,0,1,0,0,0,0,0,0,0
+8159,AC139530.2,ENSG00000262660,HPA023043,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;75%-25%,Mitochondria,dataset/HPA-18/Mitochondria/51224_A_7_4.jpg,0,0,1,0,0,0,0,0,0,0
+8701,LRPPRC,ENSG00000138095,CAB033786,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/76678_A_1_5.jpg,0,0,1,0,0,0,0,0,0,0
+8558,TXN2,ENSG00000100348,HPA000994,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/2281_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8255,ECHS1,ENSG00000127884,HPA021995,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/49674_A_9_4.jpg,0,0,1,0,0,0,0,0,0,0
+7804,MCCC2,ENSG00000131844,HPA061546,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/148478_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+7840,TRNT1,ENSG00000072756,HPA036938,uncertain,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/80603_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+8748,TACO1,ENSG00000136463,HPA021643,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/49127_B_1_4.jpg,0,0,1,0,0,0,0,0,0,0
+8249,MDH2,ENSG00000146701,HPA019716,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/45343_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+8676,MPC1,ENSG00000060762,HPA045119,enhanced,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/100232_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+8706,MRPL10,ENSG00000159111,HPA021234,enhanced,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/48570_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+8629,UQCRQ,ENSG00000164405,HPA046693,approved,Liver,Liver & gallbladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/106976_A_8_4.jpg,0,0,1,0,0,0,0,0,0,0
+8194,ETFB,ENSG00000105379,HPA018921,supported,Breast,Female tissues,medium;medium,moderate;moderate,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/43685_B_3_4.jpg,0,0,1,0,0,0,0,0,0,0
+8761,MCL1,ENSG00000143384,HPA031125,approved,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/65497_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+8614,ECHS1,ENSG00000127884,HPA022476,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/49678_A_8_4.jpg,0,0,1,0,0,0,0,0,0,0
+8195,TIMM10,ENSG00000134809,HPA039946,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/85232_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8611,UQCRC2,ENSG00000140740,HPA007998,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/21797_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8093,IARS2,ENSG00000067704,HPA024212,enhanced,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/55253_A_1_5.jpg,0,0,1,0,0,0,0,0,0,0
+7950,BNIP3L,ENSG00000104765,CAB025371,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/54551_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+8827,TXN2,ENSG00000100348,HPA000994,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/2281_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+8048,AC139530.2,ENSG00000262660,HPA023043,approved,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/51224_B_3_4.jpg,0,0,1,0,0,0,0,0,0,0
+8545,MRPS28,ENSG00000147586,HPA027202,approved,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/56034_B_1_4.jpg,0,0,1,0,0,0,0,0,0,0
+7807,ATP5F1B,ENSG00000110955,HPA001528,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/4705_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+7876,ETFB,ENSG00000105379,HPA018910,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/43689_A_7_4.jpg,0,0,1,0,0,0,0,0,0,0
+8534,MAVS,ENSG00000088888,CAB009187,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/24846_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+7965,MCL1,ENSG00000143384,CAB068195,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/153080_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+8505,PHB2,ENSG00000215021,HPA039874,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/103130_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+7978,TRAP1,ENSG00000126602,HPA041082,enhanced,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/123284_A_7_4.jpg,0,0,1,0,0,0,0,0,0,0
+8643,CCM2,ENSG00000136280,HPA021669,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/51468_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+7842,TXN2,ENSG00000100348,CAB008681,approved,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/23625_A_7_4.jpg,0,0,1,0,0,0,0,0,0,0
+8571,BNIP3L,ENSG00000104765,CAB025371,supported,Liver,Liver & gallbladder,medium;low,moderate;weak,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/54551_A_9_4.jpg,0,0,1,0,0,0,0,0,0,0
+8290,AFG3L2,ENSG00000141385,HPA004479,enhanced,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/13728_A_1_5.jpg,0,0,1,0,0,0,0,0,0,0
+8111,UQCRFS1,ENSG00000169021,HPA050339,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/123782_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+7785,CS,ENSG00000062485,CAB075750,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/159283_B_2_4.jpg,0,0,1,0,0,0,0,0,0,0
+8660,MDH2,ENSG00000146701,HPA019714,enhanced,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/45347_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+8743,ATP5ME,ENSG00000169020,HPA035010,enhanced,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/72702_A_8_4.jpg,0,0,1,0,0,0,0,0,0,0
+8803,BNIP3L,ENSG00000104765,CAB025371,supported,Liver,Liver & gallbladder,medium;low,moderate;weak,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/54551_A_8_4.jpg,0,0,1,0,0,0,0,0,0,0
+7846,NDUFV3,ENSG00000160194,HPA020463,supported,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/47393_A_8_4.jpg,0,0,1,0,0,0,0,0,0,0
+8306,MRPS26,ENSG00000125901,HPA045472,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/104934_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+8390,COQ8B,ENSG00000123815,HPA027279,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/61630_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+7754,AFG3L2,ENSG00000141385,HPA004480,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/13732_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+8273,CCDC90B,ENSG00000137500,HPA011130,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/29037_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+7724,MCCC2,ENSG00000131844,HPA061546,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/148478_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+8202,ETHE1,ENSG00000105755,HPA029029,supported,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/68093_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+7956,PHB2,ENSG00000215021,CAB014889,supported,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/36808_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+8837,UQCRFS1,ENSG00000169021,HPA041863,enhanced,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/90137_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+8054,TBRG4,ENSG00000136270,HPA020582,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/47709_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+7855,MAOA,ENSG00000189221,CAB009437,enhanced,Breast,Female tissues,medium;low;medium,moderate;moderate;moderate,>75%;<25%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/30397_B_1_4.jpg,0,0,1,0,0,0,0,0,0,0
+8872,NDUFA8,ENSG00000119421,HPA041510,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/91517_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+7974,ETFA,ENSG00000140374,HPA018993,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/43558_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8023,DIABLO,ENSG00000184047,CAB003857,supported,Liver,Liver & gallbladder,medium;low,moderate;weak,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/11021_A_9_4.jpg,0,0,1,0,0,0,0,0,0,0
+8547,NDUFA8,ENSG00000119421,HPA041600,supported,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/91510_B_1_4.jpg,0,0,1,0,0,0,0,0,0,0
+8161,ETFA,ENSG00000140374,HPA024089,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/52501_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+8681,CS,ENSG00000062485,HPA038461,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/94883_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+8473,TIMMDC1,ENSG00000113845,HPA053214,uncertain,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/120126_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+8482,ALDH5A1,ENSG00000112294,HPA029715,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/61996_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+8053,IVD,ENSG00000128928,HPA044250,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/109206_A_8_4.jpg,0,0,1,0,0,0,0,0,0,0
+8073,TIMM44,ENSG00000104980,HPA043052,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/92405_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8461,ECHS1,ENSG00000127884,CAB003783,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/11158_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+7826,AC139530.2,ENSG00000262660,HPA023043,approved,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/51224_B_2_4.jpg,0,0,1,0,0,0,0,0,0,0
+8193,PHB2,ENSG00000215021,HPA039874,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/103130_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+8221,MAOA,ENSG00000189221,HPA054807,supported,Prostate,Male tissues,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/138035_A_2_5.jpg,0,0,1,0,0,0,0,0,0,0
+8450,ALAS1,ENSG00000023330,CAB017498,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/39574_A_5_5.jpg,0,0,1,0,0,0,0,0,0,0
+8172,IARS2,ENSG00000067704,HPA024212,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/55253_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+8496,ECHS1,ENSG00000127884,HPA022476,supported,Prostate,Male tissues,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/49678_A_3_5.jpg,0,0,1,0,0,0,0,0,0,0
+8725,TACO1,ENSG00000136463,HPA024294,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Mitochondria,dataset/HPA-18/Mitochondria/54426_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8512,SIRT5,ENSG00000124523,HPA022002,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/50407_A_4_5.jpg,0,0,1,0,0,0,0,0,0,0
+8168,ALDH6A1,ENSG00000119711,HPA029072,enhanced,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/65853_A_7_4.jpg,0,0,1,0,0,0,0,0,0,0
+8690,MCL1,ENSG00000143384,CAB002781,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Mitochondria,dataset/HPA-18/Mitochondria/7057_A_6_5.jpg,0,0,1,0,0,0,0,0,0,0
+8118,MTIF2,ENSG00000085760,HPA006021,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Mitochondria,dataset/HPA-18/Mitochondria/18051_A_8_4.jpg,0,0,1,0,0,0,0,0,0,0
+1718,RRP1B,ENSG00000160208,HPA017893,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/44258_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+1510,ISY1,ENSG00000240682,HPA006312,supported,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/17199_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+2207,PRPF19,ENSG00000110107,HPA038051,supported,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/113063_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+2218,HNRNPC,ENSG00000092199,CAB005223,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/13358_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+398,DCAF1,ENSG00000145041,HPA053203,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/154182_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+1358,GTPBP4,ENSG00000107937,HPA039618,uncertain,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/86495_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+4080,SF3B2,ENSG00000087365,HPA045028,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/103441_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+608,HNRNPC,ENSG00000092199,CAB005223,supported,Liver,Liver & gallbladder,high;medium,strong;moderate,>75%;75%-25%,Nucleus,dataset/HPA-18/Nucleus/13358_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+1583,CCDC174,ENSG00000154781,HPA043468,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/94916_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+4220,CDKN2A,ENSG00000147889,CAB018232,approved,Breast,Female tissues,medium;medium;not detected,moderate;strong;negative,>75%;<25%;none,Nucleus,dataset/HPA-18/Nucleus/41223_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+3993,RPA2,ENSG00000117748,HPA026306,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/59501_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+1721,WDR61,ENSG00000140395,HPA040065,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/96284_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+2194,BYSL,ENSG00000112578,HPA031219,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/67549_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+447,ERCC1,ENSG00000012061,CAB072859,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/157426_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+3423,SURF6,ENSG00000148296,HPA023608,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/52386_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2086,H3-3B,ENSG00000132475,CAB037187,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/71814_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2455,NONO,ENSG00000147140,CAB022069,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/49570_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+3302,RBBP5,ENSG00000117222,HPA058085,uncertain,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/131532_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2665,MIDEAS,ENSG00000156030,HPA003111,approved,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/8514_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+1399,WIZ,ENSG00000011451,HPA022923,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/49643_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+3456,RAD21,ENSG00000164754,CAB022065,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/48917_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+986,MLH1,ENSG00000076242,CAB070868,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/152351_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+2297,PHF12,ENSG00000109118,HPA021410,approved,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/48804_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+1154,MIDEAS,ENSG00000156030,HPA003111,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/8514_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+4683,PTPN2,ENSG00000175354,HPA015004,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/128829_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+978,EP300,ENSG00000100393,HPA003128,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/8834_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+567,DVL2,ENSG00000004975,HPA022914,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/53430_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3382,APTX,ENSG00000137074,HPA064930,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/150529_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+3059,CHAMP1,ENSG00000198824,HPA006623,enhanced,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/19342_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+4223,NFX1,ENSG00000086102,HPA073519,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/159664_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3968,SMARCC1,ENSG00000173473,HPA026853,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/57819_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+3724,TRIM28,ENSG00000130726,CAB010066,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/27500_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+3990,GLYR1,ENSG00000140632,HPA048226,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/137498_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+3976,RAD21,ENSG00000164754,CAB022065,supported,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/48917_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+4040,ZRANB2,ENSG00000132485,HPA063298,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/141885_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+4340,TCOF1,ENSG00000070814,HPA038238,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/83461_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+922,SMARCAD1,ENSG00000163104,HPA016737,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/39415_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2745,POLR2F,ENSG00000100142,HPA000827,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/1576_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+4442,EMD,ENSG00000102119,CAB002029,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/5624_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+4671,TMPO,ENSG00000120802,HPA008150,enhanced,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/22634_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+4118,DDX42,ENSG00000198231,HPA025941,approved,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/56907_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+620,UBXN7,ENSG00000163960,HPA049442,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/112694_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2946,GLRX2,ENSG00000023572,HPA023087,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/50970_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+894,SLTM,ENSG00000137776,HPA040256,enhanced,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/85487_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+4037,RBM5,ENSG00000003756,HPA018011,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/40757_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2470,MBD2,ENSG00000134046,CAB037282,approved,Breast,Female tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/71878_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+1816,DEK,ENSG00000124795,CAB015226,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/152747_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2887,SAP30BP,ENSG00000161526,HPA052943,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/147153_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+960,EP300,ENSG00000100393,CAB000146,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/2696_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+3612,CREBBP,ENSG00000005339,HPA055861,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/134853_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4125,PSMD7,ENSG00000103035,HPA056069,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/137201_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+4517,MIDEAS,ENSG00000156030,HPA003111,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/8514_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+4634,RPA2,ENSG00000117748,HPA026306,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/59501_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+3081,SRSF1,ENSG00000136450,HPA061301,supported,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/137936_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+303,PRKDC,ENSG00000253729,HPA035174,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/115070_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+4571,FEN1,ENSG00000168496,CAB002262,enhanced,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Nucleus,dataset/HPA-18/Nucleus/5862_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+1970,SPEN,ENSG00000065526,HPA015825,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/39443_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4241,PRPF19,ENSG00000110107,HPA038051,supported,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/113063_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+3816,HNRNPC,ENSG00000092199,CAB075756,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/159331_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+642,MTA2,ENSG00000149480,CAB005315,supported,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/15836_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+3230,C1orf131,ENSG00000143633,HPA029920,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/67299_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+3520,WASHC4,ENSG00000136051,HPA045666,uncertain,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/110332_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+2954,NVL,ENSG00000143748,HPA028654,supported,Liver,Liver & gallbladder,medium;low,moderate;moderate,>75%;<25%,Nucleus,dataset/HPA-18/Nucleus/151698_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+3131,C1orf52,ENSG00000162642,HPA036072,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/71880_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+1920,GPKOW,ENSG00000068394,HPA001894,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/5978_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+1237,HNRNPM,ENSG00000099783,HPA024344,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/54866_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+2797,NOL11,ENSG00000130935,HPA022010,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/51696_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+3932,CWC27,ENSG00000153015,HPA020344,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/50451_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2663,CBX8,ENSG00000141570,HPA031462,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/66820_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+1165,HNRNPR,ENSG00000125944,HPA026092,supported,Liver,Liver & gallbladder,medium;low,moderate;weak,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/56818_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+2081,GTF2E1,ENSG00000153767,CAB009884,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/32849_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+2511,CPSF6,ENSG00000111605,HPA039973,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/85658_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+4522,NOL4L,ENSG00000197183,HPA043600,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/99803_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2512,LMNB1,ENSG00000113368,HPA050524,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/140330_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+3620,SARNP,ENSG00000205323,HPA030903,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/70968_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+4303,INTS6,ENSG00000102786,HPA001552,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/7075_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+4486,SH3RF3,ENSG00000172985,HPA048444,approved,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/111677_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+3877,SF3A1,ENSG00000099995,HPA000690,enhanced,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/1259_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+1930,CELF1,ENSG00000149187,CAB016114,supported,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/35858_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+3913,PHF12,ENSG00000109118,HPA021410,approved,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/48804_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+2415,UBXN7,ENSG00000163960,HPA048441,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/112700_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2762,USF1,ENSG00000158773,CAB001480,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/5507_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+430,DAXX,ENSG00000204209,CAB002224,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/5836_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+3409,SNRNP70,ENSG00000104852,CAB001718,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/4922_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+379,GTF2H1,ENSG00000110768,CAB004637,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/11635_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2434,C9orf78,ENSG00000136819,HPA021216,enhanced,Breast,Female tissues,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/49241_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+2171,GTPBP4,ENSG00000107937,HPA039618,uncertain,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/86495_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+3095,RBM8A,ENSG00000265241,HPA018403,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/42001_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3965,EBNA1BP2,ENSG00000117395,HPA026512,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/54754_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+3961,NFX1,ENSG00000086102,HPA073519,approved,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/159664_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+480,CREB1,ENSG00000118260,CAB003803,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Nucleus,dataset/HPA-18/Nucleus/10233_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+2934,MIDEAS,ENSG00000156030,HPA003111,approved,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/8514_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+1356,RECQL4,ENSG00000160957,HPA025821,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/56891_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3792,H3-3B,ENSG00000132475,CAB037187,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/71814_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+3174,SLTM,ENSG00000137776,HPA040256,enhanced,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/85487_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4549,HNRNPDL,ENSG00000152795,HPA056820,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/131374_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+788,RAD54L,ENSG00000085999,HPA028954,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/65255_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2313,FUS,ENSG00000089280,HPA008784,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/22362_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+3717,ILF2,ENSG00000143621,HPA007484,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/20911_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2819,RPA1,ENSG00000132383,CAB004563,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Nucleus,dataset/HPA-18/Nucleus/15751_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+301,PRCC,ENSG00000143294,HPA019463,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/45154_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+4435,RAD9A,ENSG00000172613,HPA006725,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/18520_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3506,SIN3A,ENSG00000169375,HPA047213,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/139595_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+813,HNRNPAB,ENSG00000197451,HPA046688,approved,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/105538_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+1564,SGK1,ENSG00000118515,CAB025148,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/56215_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+1223,SNRPC,ENSG00000124562,CAB034338,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/75620_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+2791,U2AF1,ENSG00000160201,HPA044833,supported,Breast,Female tissues,medium;medium;high,moderate;moderate;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/99663_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+3189,PTPN2,ENSG00000175354,HPA046176,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/128828_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+538,ARID1A,ENSG00000117713,CAB016334,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/35771_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2128,SNRPA,ENSG00000077312,HPA046440,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/135412_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+912,UBLCP1,ENSG00000164332,HPA039615,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/84592_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+1590,NELFB,ENSG00000188986,HPA020259,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/46091_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+3719,RAD21,ENSG00000164754,CAB022065,supported,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/48917_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+2466,KIF23,ENSG00000137807,CAB010414,uncertain,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/31091_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+3936,NOL7,ENSG00000225921,HPA029185,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/155643_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+1090,HNRNPA2B1,ENSG00000122566,CAB012403,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/27943_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+1176,ZNF707,ENSG00000181135,HPA044991,approved,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;75%-25%,Nucleus,dataset/HPA-18/Nucleus/102118_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+4395,ABL1,ENSG00000097007,HPA027280,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/58333_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+1577,SRSF1,ENSG00000136450,CAB013073,supported,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/31220_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+1707,PSMA1,ENSG00000129084,HPA043891,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/112075_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+2495,NFX1,ENSG00000086102,HPA073519,approved,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/159664_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+2295,RSRC2,ENSG00000111011,HPA040070,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/85003_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+1179,EWSR1,ENSG00000182944,HPA062953,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/142641_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+1163,CHD2,ENSG00000173575,HPA060960,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/136319_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2652,SF1,ENSG00000168066,HPA018883,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/164854_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2300,CYHR1,ENSG00000187954,HPA053653,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/126695_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3384,RFC4,ENSG00000163918,HPA049123,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/124320_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2615,GPKOW,ENSG00000068394,HPA000287,enhanced,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/709_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+1918,PUF60,ENSG00000179950,HPA059714,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/133702_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+650,PSMB2,ENSG00000126067,HPA026322,approved,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/56172_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+1456,CTDSPL2,ENSG00000137770,HPA040763,approved,Liver,Liver & gallbladder,medium;low,moderate;moderate,>75%;<25%,Nucleus,dataset/HPA-18/Nucleus/87060_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+1649,BUB3,ENSG00000154473,CAB037075,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/84374_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+3358,ATF2,ENSG00000115966,CAB003769,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/11607_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2787,USP46,ENSG00000109189,HPA007288,uncertain,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/23524_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3455,SURF6,ENSG00000148296,HPA023608,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/52386_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4064,SNRPC,ENSG00000124562,HPA055490,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/136234_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2149,GTF2I,ENSG00000263001,HPA026638,supported,Liver,Liver & gallbladder,medium;low,moderate;weak,>75%;75%-25%,Nucleus,dataset/HPA-18/Nucleus/55811_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+3037,DDB1,ENSG00000167986,CAB032821,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/63256_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2901,ZNF22,ENSG00000165512,HPA016736,approved,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/38090_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+1569,PARP1,ENSG00000143799,CAB075726,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/159306_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+2184,ZC3H18,ENSG00000158545,HPA041327,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/88157_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+873,BYSL,ENSG00000112578,HPA031219,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/67549_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2613,CNDP2,ENSG00000133313,HPA036899,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/125046_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4663,CDKL5,ENSG00000008086,CAB011577,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/26788_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+1899,HNRNPAB,ENSG00000197451,HPA046688,approved,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/105538_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+3857,RPS6KA5,ENSG00000100784,HPA001274,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/3408_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+1840,SCAF4,ENSG00000156304,HPA021504,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/49404_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+2674,UGDH,ENSG00000109814,HPA036657,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/78797_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+4117,PLEKHG1,ENSG00000120278,HPA028270,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/64532_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3526,PLEKHG1,ENSG00000120278,HPA028270,approved,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/64532_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+913,APEX1,ENSG00000100823,CAB047307,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/104815_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3600,ADPRS,ENSG00000116863,HPA027104,approved,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/59583_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+786,EMD,ENSG00000102119,HPA000609,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/142546_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+3793,SP4,ENSG00000105866,CAB010246,uncertain,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/26019_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2861,KHDRBS1,ENSG00000121774,HPA056813,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/128553_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+1410,PLRG1,ENSG00000171566,HPA035931,supported,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/75134_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+2051,POLR2F,ENSG00000100142,HPA000827,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/1576_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+3588,EMSY,ENSG00000158636,CAB012234,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/33169_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2226,TPR,ENSG00000047410,HPA024336,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/53506_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2643,GMNN,ENSG00000112312,HPA049977,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/113203_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2939,PRPF19,ENSG00000110107,HPA038051,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/113063_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+3939,INTS6,ENSG00000102786,HPA001846,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/5823_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2794,SRRM2,ENSG00000167978,HPA041411,supported,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/87311_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+4621,CSTF1,ENSG00000101138,CAB019270,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/43251_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3077,RAD9A,ENSG00000172613,HPA006725,enhanced,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/18520_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+4103,PDXK,ENSG00000160209,HPA030198,approved,Breast,Female tissues,medium;high;not detected,moderate;strong;negative,>75%;75%-25%;none,Nucleus,dataset/HPA-18/Nucleus/64628_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+2240,TLK1,ENSG00000198586,HPA016043,approved,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/40251_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2763,CHAMP1,ENSG00000198824,HPA006623,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/19342_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3287,NONO,ENSG00000147140,HPA054094,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/139334_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+1990,PSMA1,ENSG00000129084,HPA043891,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/112075_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2589,ZNF687,ENSG00000143373,HPA021193,approved,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/47610_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+2346,RBM22,ENSG00000086589,HPA001634,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/9281_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2070,NOP53,ENSG00000105373,HPA018999,approved,Breast,Female tissues,medium;medium;not detected,moderate;moderate;negative,>75%;>75%;none,Nucleus,dataset/HPA-18/Nucleus/44516_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+4655,HNRNPA2B1,ENSG00000122566,HPA001666,supported,Liver,Liver & gallbladder,high;low,strong;weak,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/7551_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+3607,SURF2,ENSG00000148291,HPA044340,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/110648_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+452,HDAC1,ENSG00000116478,CAB005017,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/18248_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2900,TOR1AIP1,ENSG00000143337,HPA050546,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/114729_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+1886,GNL3,ENSG00000163938,HPA036743,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/124399_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+2017,RBM10,ENSG00000182872,HPA034972,approved,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/71479_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+509,SLTM,ENSG00000137776,HPA040256,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/85487_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+4503,SNW1,ENSG00000100603,HPA002457,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/7297_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+1366,UGDH,ENSG00000109814,HPA036656,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/78803_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+784,MACROH2A2,ENSG00000099284,HPA041189,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/102310_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2288,PRPF19,ENSG00000110107,CAB012448,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/27129_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3777,HMG20B,ENSG00000064961,HPA069832,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/153891_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3725,ZHX2,ENSG00000178764,HPA006996,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/20467_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+4478,UBTF,ENSG00000108312,HPA006385,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/17457_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+754,ZBTB7B,ENSG00000160685,HPA006811,enhanced,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/23423_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+319,DDX5,ENSG00000108654,HPA020043,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/45622_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+3806,RFXANK,ENSG00000064490,HPA049157,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/111833_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2703,H3-3B,ENSG00000132475,CAB037166,supported,Breast,Female tissues,high;medium;medium,strong;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/73858_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+3564,CREB1,ENSG00000118260,CAB003803,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Nucleus,dataset/HPA-18/Nucleus/10233_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+1846,PTPN14,ENSG00000152104,CAB011469,uncertain,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/32748_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+526,TARDBP,ENSG00000120948,CAB003703,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;75%-25%,Nucleus,dataset/HPA-18/Nucleus/10479_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+571,REPIN1,ENSG00000214022,HPA036022,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/68284_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+4165,HNRNPA1,ENSG00000135486,CAB010894,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/49392_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+3696,MBD6,ENSG00000166987,HPA038949,uncertain,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/84464_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+1273,SAGE1,ENSG00000181433,HPA003033,supported,Breast,Female tissues,medium;low;not detected,moderate;weak;negative,>75%;75%-25%;none,Nucleus,dataset/HPA-18/Nucleus/9922_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+2949,KIF23,ENSG00000137807,CAB010414,uncertain,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/31091_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+2141,ZNF609,ENSG00000180357,HPA040742,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/87965_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+4010,HBP1,ENSG00000105856,CAB032824,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/66583_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+924,ERCC1,ENSG00000012061,HPA029773,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/158190_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+686,PHAX,ENSG00000164902,HPA070326,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/154343_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+809,PKNOX2,ENSG00000165495,CAB034342,supported,Liver,Liver & gallbladder,medium;low,moderate;weak,>75%;75%-25%,Nucleus,dataset/HPA-18/Nucleus/71281_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+1535,NACC1,ENSG00000160877,CAB069927,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/156370_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+1396,TP53BP1,ENSG00000067369,HPA022133,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/49261_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+3570,RCOR1,ENSG00000089902,CAB001956,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/5282_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2951,THOC3,ENSG00000051596,HPA044009,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/101770_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2498,ARID1A,ENSG00000117713,CAB016334,supported,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/35771_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+782,ZNF593,ENSG00000142684,HPA059387,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/132188_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+4290,HNRNPD,ENSG00000138668,HPA004911,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/15964_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+488,NASP,ENSG00000132780,HPA030520,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/113181_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+937,GNL3,ENSG00000163938,HPA036743,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/124399_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+3579,SPEN,ENSG00000065526,HPA015825,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/39443_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+3410,CNDP2,ENSG00000133313,CAB026196,enhanced,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/58057_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+3869,CTDSPL2,ENSG00000137770,HPA040763,approved,Liver,Liver & gallbladder,medium;low,moderate;moderate,>75%;<25%,Nucleus,dataset/HPA-18/Nucleus/87060_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+3324,ADPRS,ENSG00000116863,HPA027141,approved,Liver,Liver & gallbladder,medium;not detected,moderate;weak,>75%;<25%,Nucleus,dataset/HPA-18/Nucleus/58676_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+2501,POGZ,ENSG00000143442,HPA006800,enhanced,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/19167_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+4012,DDX46,ENSG00000145833,HPA036554,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/77506_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+1266,BUB3,ENSG00000154473,CAB037075,supported,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/84374_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+1013,SRSF1,ENSG00000136450,CAB013073,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/31220_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+4003,BAP1,ENSG00000163930,CAB004322,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/11864_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+4190,NELFB,ENSG00000188986,HPA020259,supported,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/46091_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+3097,CHTOP,ENSG00000160679,HPA028647,approved,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/60195_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+2860,IRF2BPL,ENSG00000119669,HPA050862,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/118912_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+4319,ZNF609,ENSG00000180357,HPA040742,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;75%-25%,Nucleus,dataset/HPA-18/Nucleus/87965_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+326,COPS5,ENSG00000121022,CAB004242,supported,Breast,Female tissues,high;high,strong;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/17557_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+1818,PRPF19,ENSG00000110107,HPA038051,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;75%-25%,Nucleus,dataset/HPA-18/Nucleus/113063_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+4357,PRPF40A,ENSG00000196504,HPA038272,approved,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/80307_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+3756,FBXL4,ENSG00000112234,HPA029140,approved,Breast,Female tissues,medium;medium;low,moderate;moderate;weak,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/64660_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+1991,POLR2I,ENSG00000105258,HPA045156,uncertain,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/101582_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+3086,SRRT,ENSG00000087087,HPA042858,supported,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/108062_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+2516,SNRNP70,ENSG00000104852,CAB001718,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/4922_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+4058,PRKDC,ENSG00000253729,CAB005167,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/17933_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+4160,RPS6KA5,ENSG00000100784,HPA001274,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/3408_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+3039,MTA2,ENSG00000149480,CAB005315,supported,Liver,Liver & gallbladder,high;low,strong;weak,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/15836_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+3969,DDX42,ENSG00000198231,HPA025941,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/56907_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2445,SLTM,ENSG00000137776,HPA040381,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/87028_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2806,PRPF40A,ENSG00000196504,HPA038273,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/80241_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+4052,NPM1,ENSG00000181163,HPA011384,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/28259_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+3125,C1D,ENSG00000197223,HPA037588,approved,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/83231_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+3521,WASHC4,ENSG00000136051,HPA046737,uncertain,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/110328_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4217,RAD54L,ENSG00000085999,HPA028954,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/65255_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+4198,ARID1A,ENSG00000117713,HPA005456,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/19571_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2571,TASOR,ENSG00000163946,HPA006735,uncertain,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/21403_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3553,NCBP2,ENSG00000114503,HPA044850,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/104087_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+1695,PDS5A,ENSG00000121892,HPA036662,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/76997_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+1033,TOR1AIP1,ENSG00000143337,HPA047151,enhanced,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/107725_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+3547,MBD6,ENSG00000166987,HPA038948,uncertain,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/84468_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+4145,PML,ENSG00000140464,CAB016304,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/35718_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2358,WIZ,ENSG00000011451,HPA022923,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/49643_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2955,ERCC1,ENSG00000012061,CAB004390,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/11738_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+4615,TPR,ENSG00000047410,HPA024336,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/53506_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+680,PPP1R8,ENSG00000117751,HPA027406,enhanced,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/57672_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+968,MPHOSPH10,ENSG00000124383,HPA035060,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/71734_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4531,PPHLN1,ENSG00000134283,HPA038903,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/84537_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+4135,RAD50,ENSG00000113522,CAB024979,supported,Liver,Liver & gallbladder,high;medium,strong;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/55339_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+2109,RECQL,ENSG00000004700,CAB009743,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/24528_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3467,C9orf78,ENSG00000136819,HPA021232,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/49245_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+4042,FKBP5,ENSG00000096060,HPA031093,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;75%-25%;>75%,Nucleus,dataset/HPA-18/Nucleus/66768_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+3890,TKT,ENSG00000163931,HPA029480,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/63041_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3951,HNRNPA2B1,ENSG00000122566,HPA001666,supported,Liver,Liver & gallbladder,high;low,strong;weak,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/7551_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+2394,CARM1,ENSG00000142453,CAB032961,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/77245_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+1967,NOP53,ENSG00000105373,HPA018999,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/44516_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2395,MSL1,ENSG00000188895,HPA022800,uncertain,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/52308_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+4507,SFPQ,ENSG00000116560,CAB009886,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/27788_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+2390,RBM22,ENSG00000086589,HPA001634,supported,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/9281_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+1842,CCAR2,ENSG00000158941,HPA019943,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/46592_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+4554,EWSR1,ENSG00000182944,HPA062953,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/142641_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+3617,PRPF40A,ENSG00000196504,HPA038272,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/80307_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3898,ZNF609,ENSG00000180357,HPA040742,approved,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/87965_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+649,HNRNPM,ENSG00000099783,HPA024344,supported,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/54866_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+1755,NPM1,ENSG00000181163,CAB012983,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/28235_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+833,PKNOX2,ENSG00000165495,CAB034342,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/71281_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+3514,CDKL5,ENSG00000008086,CAB011577,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/26788_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+1233,CLOCK,ENSG00000134852,HPA027565,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/58303_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+1069,HIRA,ENSG00000100084,HPA050714,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/134587_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2045,ANP32A,ENSG00000140350,CAB005231,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/15844_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+4270,TMPO,ENSG00000120802,HPA008150,enhanced,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/22634_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+455,PARP1,ENSG00000143799,CAB075726,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/159306_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+2066,APTX,ENSG00000137074,HPA064930,supported,Breast,Female tissues,high;medium;medium,strong;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/150529_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+1490,PDS5A,ENSG00000121892,HPA036662,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/76997_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+2172,NFYA,ENSG00000001167,CAB009250,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/24621_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2962,SON,ENSG00000159140,HPA023535,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/52583_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+3465,KHSRP,ENSG00000088247,HPA034739,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/70306_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+2310,IRF2BP2,ENSG00000168264,HPA027815,approved,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/59806_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+2299,ZC3H18,ENSG00000158545,HPA040847,enhanced,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/87875_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+4187,CBX8,ENSG00000141570,HPA031462,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/66820_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3531,ZNF593,ENSG00000142684,HPA059387,supported,Breast,Female tissues,high;medium;medium,strong;moderate;moderate,>75%;>75%;75%-25%,Nucleus,dataset/HPA-18/Nucleus/132188_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+2372,PML,ENSG00000140464,CAB016304,supported,Breast,Female tissues,high;high;medium,strong;strong;moderate,>75%;75%-25%;>75%,Nucleus,dataset/HPA-18/Nucleus/35718_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+690,PSIP1,ENSG00000164985,HPA019697,supported,Breast,Female tissues,high;high;medium,strong;strong;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/46099_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+3082,ELAC2,ENSG00000006744,HPA019535,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/45379_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2551,HNRNPDL,ENSG00000152795,HPA056820,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/131374_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+4366,DDX42,ENSG00000198231,HPA023571,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/53295_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+1185,FUS,ENSG00000089280,CAB058691,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/126099_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+520,COPS5,ENSG00000121022,HPA004845,supported,Liver,Liver & gallbladder,medium;not detected,moderate;weak,>75%;<25%,Nucleus,dataset/HPA-18/Nucleus/17239_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+1813,RSL24D1,ENSG00000137876,HPA063392,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/143623_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3668,CXXC1,ENSG00000154832,HPA044511,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/99579_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+1672,CLK2,ENSG00000176444,HPA055366,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/126323_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+1317,FKBP5,ENSG00000096060,HPA031093,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/66768_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+2881,HDAC1,ENSG00000116478,CAB005017,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/18248_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+1418,TAF15,ENSG00000270647,HPA052059,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/116930_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3151,RPA2,ENSG00000117748,HPA026309,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/59516_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+1610,ZNF830,ENSG00000198783,HPA024754,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/54216_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+1923,FAM193B,ENSG00000146067,HPA035848,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/70801_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+3817,LEMD2,ENSG00000161904,HPA017340,supported,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/40024_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+816,KHDRBS1,ENSG00000121774,CAB005355,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/14091_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+3901,NOP58,ENSG00000055044,HPA021062,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/47574_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+1222,PAPOLA,ENSG00000090060,HPA001788,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/5601_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+528,HNRNPA1,ENSG00000135486,HPA001609,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/98870_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+4282,NONO,ENSG00000147140,CAB022069,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/49570_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4090,SH3RF3,ENSG00000172985,HPA048444,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/111677_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+4412,ERCC1,ENSG00000012061,CAB072859,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/157426_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+4094,RNMT,ENSG00000101654,HPA039409,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/90581_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2304,GTF2F1,ENSG00000125651,HPA070752,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/159039_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+4193,ZNF638,ENSG00000075292,HPA036784,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/75595_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2242,POGZ,ENSG00000143442,HPA006800,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/19167_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+764,ZBED8,ENSG00000221886,HPA045445,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/102056_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+2742,ZRANB2,ENSG00000132485,HPA063298,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/141885_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+3786,DVL2,ENSG00000004975,HPA022914,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/53430_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2965,C1D,ENSG00000197223,HPA037588,approved,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/83231_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+491,ZNF207,ENSG00000010244,HPA063908,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/143965_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+2518,ZCCHC8,ENSG00000033030,HPA037483,supported,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/78915_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+1400,HNRNPH2,ENSG00000126945,HPA016884,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/37354_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2482,SMARCC2,ENSG00000139613,HPA021213,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/47661_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+1112,MEF2D,ENSG00000116604,HPA004807,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/13926_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+4526,SNW1,ENSG00000100603,HPA002457,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/7297_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2918,NASP,ENSG00000132780,HPA030520,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/113181_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+961,ZC3H18,ENSG00000158545,HPA040847,enhanced,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/87875_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+1182,SFPQ,ENSG00000116560,HPA054689,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/151661_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2731,MIDEAS,ENSG00000156030,HPA003111,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/8514_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+1111,CELF1,ENSG00000149187,CAB069989,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/156437_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+3708,NCL,ENSG00000115053,HPA023981,supported,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/53440_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+2635,RECQL,ENSG00000004700,CAB009743,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/24528_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+4091,HNRNPK,ENSG00000165119,HPA007644,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/23078_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+3461,PRCC,ENSG00000143294,HPA019481,supported,Breast,Female tissues,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/45150_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+2103,TAF4,ENSG00000130699,CAB031484,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/66542_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2178,KLHL8,ENSG00000145332,HPA017762,approved,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Nucleus,dataset/HPA-18/Nucleus/40470_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+1558,HNRNPM,ENSG00000099783,HPA024344,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/54866_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4339,RAD21,ENSG00000164754,HPA020044,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/46709_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+3996,DEK,ENSG00000124795,HPA054505,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/149744_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+1329,RNF40,ENSG00000103549,HPA041330,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/89915_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+1522,SNRNP70,ENSG00000104852,CAB001718,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/4922_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+2601,SFPQ,ENSG00000116560,HPA054689,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/151661_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+346,HOXD4,ENSG00000170166,HPA070349,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/155005_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+1305,APEX1,ENSG00000100823,CAB004294,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/15891_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4247,CUL2,ENSG00000108094,CAB002677,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/6877_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+453,DDX39A,ENSG00000123136,HPA055334,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/130600_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+953,PDS5B,ENSG00000083642,HPA040015,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/85144_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+1881,ZNF707,ENSG00000181135,HPA044991,approved,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/102118_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+1883,EMD,ENSG00000102119,CAB002029,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/5624_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+476,TPI1,ENSG00000111669,HPA053568,uncertain,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/148467_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+4682,PHF23,ENSG00000040633,HPA052410,approved,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/119559_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+1598,PSME3,ENSG00000131467,CAB008388,supported,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/19712_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+4152,SLTM,ENSG00000137776,HPA040256,enhanced,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;75%-25%,Nucleus,dataset/HPA-18/Nucleus/85487_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+1850,EWSR1,ENSG00000182944,HPA051771,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/137534_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3122,RPA2,ENSG00000117748,CAB016538,supported,Liver,Liver & gallbladder,medium;low,moderate;moderate,>75%;<25%,Nucleus,dataset/HPA-18/Nucleus/36325_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+730,C1D,ENSG00000197223,HPA037413,approved,Breast,Female tissues,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/83244_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+2662,CBFA2T3,ENSG00000129993,HPA065890,approved,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/161435_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4172,KIF23,ENSG00000137807,CAB010414,uncertain,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/31091_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+1882,MKI67,ENSG00000148773,HPA001164,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Nucleus,dataset/HPA-18/Nucleus/155486_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+3074,GTF2I,ENSG00000263001,HPA026638,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/55811_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+3995,PPARA,ENSG00000186951,CAB075701,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/160107_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+1344,SREK1,ENSG00000153914,HPA037674,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/81969_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+4259,C1orf131,ENSG00000143633,HPA028452,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/67495_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+1267,THOC1,ENSG00000079134,HPA019687,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/46513_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+1532,ZNF207,ENSG00000010244,HPA017013,enhanced,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/38742_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+3245,ZNF346,ENSG00000113761,HPA018485,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/43116_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2636,TOP2B,ENSG00000077097,CAB004601,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/11584_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2849,SNRPA,ENSG00000077312,HPA046440,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/135412_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+2452,EP300,ENSG00000100393,CAB000146,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/2696_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+1791,HDGF,ENSG00000143321,HPA048728,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/138401_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4551,FAM50A,ENSG00000071859,HPA003585,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Nucleus,dataset/HPA-18/Nucleus/11105_A_8_4.jpg,0,0,0,1,0,0,0,0,0,0
+2716,XRCC6,ENSG00000196419,HPA047549,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/125169_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+651,SON,ENSG00000159140,HPA023535,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/52583_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2424,ADAR,ENSG00000160710,CAB056157,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/121442_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+3938,PRCC,ENSG00000143294,CAB017151,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/38498_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2386,HBP1,ENSG00000105856,CAB032824,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/66583_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2309,SCAF4,ENSG00000156304,HPA021504,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/49404_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+4050,C9orf78,ENSG00000136819,HPA021232,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/49245_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+4338,MBNL1,ENSG00000152601,HPA035098,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/134119_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+481,POGZ,ENSG00000143442,HPA006800,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/19167_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+1203,ACTL6A,ENSG00000136518,CAB012188,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/32346_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3949,CHTOP,ENSG00000160679,HPA028647,approved,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/60195_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+3720,BRD4,ENSG00000141867,CAB068178,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/152034_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+1392,SREK1,ENSG00000153914,HPA059332,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/147300_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+1675,NOL11,ENSG00000130935,HPA022010,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/51696_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2308,ELF3,ENSG00000163435,HPA003479,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/10983_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+707,SUN1,ENSG00000164828,HPA008346,enhanced,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/21862_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+3630,SMC1A,ENSG00000072501,CAB025404,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/54572_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3900,KHDRBS1,ENSG00000121774,HPA056813,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/128553_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+3469,IK,ENSG00000113141,HPA048798,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/147814_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+2535,SLTM,ENSG00000137776,HPA040381,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/87028_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+4041,CHAMP1,ENSG00000198824,HPA006623,enhanced,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/19342_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+550,H3-3B,ENSG00000132475,CAB037166,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/73858_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+3492,PPP1R8,ENSG00000117751,HPA027417,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/57669_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+494,HNRNPH2,ENSG00000126945,HPA001359,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/4144_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2529,CWC25,ENSG00000273559,HPA062997,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/143673_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2061,LEMD2,ENSG00000161904,HPA017340,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/40024_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+4530,GET3,ENSG00000198356,HPA045951,approved,Breast,Female tissues,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/103533_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+3252,SRRT,ENSG00000087087,HPA042858,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/108062_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+1866,HNRNPK,ENSG00000165119,CAB016225,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/36812_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+318,GLRX2,ENSG00000023572,HPA023087,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/50970_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+3657,THOC1,ENSG00000079134,HPA019687,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/46513_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+1382,GLYR1,ENSG00000140632,HPA050136,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/137516_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+2988,RCOR1,ENSG00000089902,CAB001956,supported,Breast,Female tissues,high;medium;medium,strong;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/5282_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+835,ALYREF,ENSG00000183684,HPA019799,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/46087_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+3692,CCDC86,ENSG00000110104,HPA041117,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/90313_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3853,GNL3,ENSG00000163938,HPA036742,supported,Breast,Female tissues,high;medium,strong;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/124388_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+4502,PHF6,ENSG00000156531,HPA001023,enhanced,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/159887_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+3135,SPEN,ENSG00000065526,HPA015825,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/39443_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+2605,CCDC86,ENSG00000110104,HPA041117,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/90313_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+4408,SAGE1,ENSG00000181433,HPA003033,supported,Breast,Female tissues,medium;low;not detected,moderate;weak;negative,>75%;75%-25%;none,Nucleus,dataset/HPA-18/Nucleus/9922_B_3_4.jpg,0,0,0,1,0,0,0,0,0,0
+3528,ZNF609,ENSG00000180357,HPA040742,approved,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;75%-25%,Nucleus,dataset/HPA-18/Nucleus/87965_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+4446,CHD4,ENSG00000111642,HPA012008,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/51702_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+1603,EXOSC9,ENSG00000123737,HPA041838,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/90127_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+989,ZBTB7B,ENSG00000160685,HPA025820,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/57469_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+4029,POLR1G,ENSG00000117877,HPA041734,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/96062_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+4046,GNL3,ENSG00000163938,HPA036743,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/124399_A_7_4.jpg,0,0,0,1,0,0,0,0,0,0
+1521,CXXC1,ENSG00000154832,HPA044511,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/99579_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+2293,SCAF4,ENSG00000156304,HPA021504,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/49404_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+570,MCM5,ENSG00000100297,HPA000845,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/1763_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+4515,CREB1,ENSG00000118260,HPA019150,supported,Prostate,Male tissues,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/44743_A_1_5.jpg,0,0,0,1,0,0,0,0,0,0
+2661,TPR,ENSG00000047410,HPA019663,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/44609_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+3247,PSME3,ENSG00000131467,HPA012510,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/33425_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3931,SF3B5,ENSG00000169976,HPA054408,approved,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/122599_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+4200,PDS5A,ENSG00000121892,HPA036662,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/76997_A_6_5.jpg,0,0,0,1,0,0,0,0,0,0
+3714,FBXL4,ENSG00000112234,HPA029140,approved,Breast,Female tissues,medium;medium;low,moderate;moderate;weak,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/64660_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+4411,ORC3,ENSG00000135336,HPA053748,enhanced,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/129731_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2821,GSK3B,ENSG00000082701,CAB016263,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/36255_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+1431,PPARA,ENSG00000186951,CAB075701,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Nucleus,dataset/HPA-18/Nucleus/160107_A_4_5.jpg,0,0,0,1,0,0,0,0,0,0
+3061,DDX50,ENSG00000107625,HPA058196,approved,Breast,Female tissues,medium;low;low,moderate;weak;weak,>75%;75%-25%;75%-25%,Nucleus,dataset/HPA-18/Nucleus/157312_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+2628,FOXO3,ENSG00000118689,CAB004074,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/21601_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+2018,WBP11,ENSG00000084463,HPA040037,approved,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;75%-25%;75%-25%,Nucleus,dataset/HPA-18/Nucleus/96649_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+1236,DEF6,ENSG00000023892,HPA038975,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/81474_A_2_5.jpg,0,0,0,1,0,0,0,0,0,0
+2784,RALY,ENSG00000125970,HPA040971,enhanced,Breast,Female tissues,high;high;medium,strong;strong;moderate,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/85566_B_2_4.jpg,0,0,0,1,0,0,0,0,0,0
+4229,PAPOLA,ENSG00000090060,HPA001788,supported,Prostate,Male tissues,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/5601_A_3_5.jpg,0,0,0,1,0,0,0,0,0,0
+2678,HNRNPM,ENSG00000099783,HPA024344,supported,Breast,Female tissues,high;high;high,strong;strong;strong,>75%;>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/54866_B_1_4.jpg,0,0,0,1,0,0,0,0,0,0
+409,MACROH2A2,ENSG00000099284,HPA041189,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Nucleus,dataset/HPA-18/Nucleus/102310_A_5_5.jpg,0,0,0,1,0,0,0,0,0,0
+2157,NFX1,ENSG00000086102,HPA073519,approved,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Nucleus,dataset/HPA-18/Nucleus/159664_A_9_4.jpg,0,0,0,1,0,0,0,0,0,0
+9800,MAGED2,ENSG00000102316,HPA031572,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/66201_A_8_4.jpg",1,0,0,1,0,0,0,0,0,0
+9394,MAGED2,ENSG00000102316,HPA031572,approved,Prostate,Male tissues,high,strong,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/66201_A_3_5.jpg",1,0,0,1,0,0,0,0,0,0
+9455,MAPK7,ENSG00000166484,CAB018561,uncertain,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/41732_A_6_5.jpg",1,0,0,1,0,0,0,0,0,0
+9826,ZNF500,ENSG00000103199,HPA035498,supported,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/71668_A_1_5.jpg",1,0,0,1,0,0,0,0,0,0
+9581,FCHO1,ENSG00000130475,HPA041653,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/90984_A_4_5.jpg",1,0,0,1,0,0,0,0,0,0
+9456,MYBL2,ENSG00000101057,CAB017114,uncertain,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/37942_B_1_4.jpg",1,0,0,1,0,0,0,0,0,0
+9874,PSMC1,ENSG00000100764,HPA000872,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/2056_A_4_5.jpg",1,0,0,1,0,0,0,0,0,0
+9438,DAZAP1,ENSG00000071626,HPA004631,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/13690_A_5_5.jpg",1,0,0,1,0,0,0,0,0,0
+9590,AGO4,ENSG00000134698,CAB012179,approved,Liver,Liver & gallbladder,high;not detected,strong;weak,>75%;<25%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/28986_A_8_4.jpg",1,0,0,1,0,0,0,0,0,0
+9738,MAPK7,ENSG00000166484,CAB018561,uncertain,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/41732_A_1_5.jpg",1,0,0,1,0,0,0,0,0,0
+9379,WWTR1,ENSG00000018408,CAB017483,approved,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/115853_B_1_4.jpg",1,0,0,1,0,0,0,0,0,0
+9524,PSMD4,ENSG00000159352,HPA039252,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/85201_A_4_5.jpg",1,0,0,1,0,0,0,0,0,0
+9531,HUWE1,ENSG00000086758,CAB022718,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/48193_A_6_5.jpg",1,0,0,1,0,0,0,0,0,0
+9797,PSMD4,ENSG00000159352,CAB047300,supported,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/105425_A_1_5.jpg",1,0,0,1,0,0,0,0,0,0
+9777,FCHO1,ENSG00000130475,HPA041653,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/90984_A_5_5.jpg",1,0,0,1,0,0,0,0,0,0
+9467,USP10,ENSG00000103194,HPA006749,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/19015_A_5_5.jpg",1,0,0,1,0,0,0,0,0,0
+9701,BBX,ENSG00000114439,HPA050646,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/130436_A_4_5.jpg",1,0,0,1,0,0,0,0,0,0
+9873,USP10,ENSG00000103194,HPA006749,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/19015_A_4_5.jpg",1,0,0,1,0,0,0,0,0,0
+9597,PCBP1,ENSG00000169564,CAB037113,approved,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/76657_A_9_4.jpg",1,0,0,1,0,0,0,0,0,0
+9790,PTPA,ENSG00000119383,CAB035999,approved,Liver,Liver & gallbladder,medium;not detected,moderate;weak,>75%;<25%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/71854_A_8_4.jpg",1,0,0,1,0,0,0,0,0,0
+9772,DDX1,ENSG00000079785,HPA034502,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/95610_A_4_5.jpg",1,0,0,1,0,0,0,0,0,0
+9692,WWTR1,ENSG00000018408,CAB017483,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/115853_A_8_4.jpg",1,0,0,1,0,0,0,0,0,0
+9707,CMTR1,ENSG00000137200,HPA029980,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/64515_A_4_5.jpg",1,0,0,1,0,0,0,0,0,0
+9402,DDX1,ENSG00000079785,CAB012280,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/27435_A_4_5.jpg",1,0,0,1,0,0,0,0,0,0
+9739,WRAP53,ENSG00000141499,HPA023026,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/58534_A_5_5.jpg",1,0,0,1,0,0,0,0,0,0
+9730,TAB1,ENSG00000100324,HPA039988,approved,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/93682_A_1_5.jpg",1,0,0,1,0,0,0,0,0,0
+9449,THAP11,ENSG00000168286,HPA042189,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/95901_A_4_5.jpg",1,0,0,1,0,0,0,0,0,0
+9657,MAGED2,ENSG00000102316,HPA031572,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/66201_A_9_4.jpg",1,0,0,1,0,0,0,0,0,0
+9445,WWTR1,ENSG00000018408,CAB068248,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/153539_A_6_5.jpg",1,0,0,1,0,0,0,0,0,0
+9650,PTMA,ENSG00000187514,HPA047183,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/106139_A_6_5.jpg",1,0,0,1,0,0,0,0,0,0
+9759,KCMF1,ENSG00000176407,HPA030383,enhanced,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/62283_A_3_5.jpg",1,0,0,1,0,0,0,0,0,0
+9519,VCP,ENSG00000165280,HPA012814,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/30449_A_4_5.jpg",1,0,0,1,0,0,0,0,0,0
+9459,TRIM11,ENSG00000154370,HPA028541,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/60595_A_6_5.jpg",1,0,0,1,0,0,0,0,0,0
+9636,VCP,ENSG00000165280,HPA012814,supported,Prostate,Male tissues,high,strong,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/30449_A_2_5.jpg",1,0,0,1,0,0,0,0,0,0
+9630,TUBD1,ENSG00000108423,CAB004609,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/13814_A_7_4.jpg",1,0,0,1,0,0,0,0,0,0
+9861,FAAP100,ENSG00000185504,HPA023954,uncertain,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/58132_A_1_5.jpg",1,0,0,1,0,0,0,0,0,0
+9458,DAZAP1,ENSG00000071626,HPA004631,supported,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/13690_A_2_5.jpg",1,0,0,1,0,0,0,0,0,0
+9614,MAGED2,ENSG00000102316,HPA031573,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;75%-25%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/66141_A_8_4.jpg",1,0,0,1,0,0,0,0,0,0
+9863,CMTR1,ENSG00000137200,HPA029980,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/64515_A_5_5.jpg",1,0,0,1,0,0,0,0,0,0
+9396,NAXE,ENSG00000163382,HPA043766,enhanced,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/103834_A_2_5.jpg",1,0,0,1,0,0,0,0,0,0
+9667,NAXE,ENSG00000163382,HPA043766,enhanced,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/103834_A_9_4.jpg",1,0,0,1,0,0,0,0,0,0
+9423,KYAT1,ENSG00000171097,HPA021176,approved,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/48889_B_1_4.jpg",1,0,0,1,0,0,0,0,0,0
+9629,CACYBP,ENSG00000116161,HPA025753,enhanced,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/56706_A_3_5.jpg",1,0,0,1,0,0,0,0,0,0
+9613,DAZAP1,ENSG00000071626,HPA004201,enhanced,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/20246_A_2_5.jpg",1,0,0,1,0,0,0,0,0,0
+9813,PIN1,ENSG00000127445,CAB004528,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/16262_A_6_5.jpg",1,0,0,1,0,0,0,0,0,0
+9736,PDCL3,ENSG00000115539,HPA018469,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/43641_A_6_5.jpg",1,0,0,1,0,0,0,0,0,0
+9565,STAT1,ENSG00000115415,HPA000931,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/2258_A_5_5.jpg",1,0,0,1,0,0,0,0,0,0
+9851,HSPH1,ENSG00000120694,CAB002060,uncertain,Prostate,Male tissues,high,strong,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/7263_A_2_5.jpg",1,0,0,1,0,0,0,0,0,0
+9564,CARD8,ENSG00000105483,HPA043513,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/114264_B_2_4.jpg",1,0,0,1,0,0,0,0,0,0
+9821,DDX1,ENSG00000079785,HPA034502,supported,Prostate,Male tissues,high,strong,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/95610_A_2_5.jpg",1,0,0,1,0,0,0,0,0,0
+9582,GMIP,ENSG00000089639,HPA042484,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/93528_A_4_5.jpg",1,0,0,1,0,0,0,0,0,0
+9539,CD2BP2,ENSG00000169217,HPA041508,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/90776_A_4_5.jpg",1,0,0,1,0,0,0,0,0,0
+9723,ALDH1A3,ENSG00000184254,HPA046271,enhanced,Prostate,Male tissues,high,strong,>75%,"Nucleus,Cytoplasm","dataset/HPA-18/Nucleus,Cytoplasm/105391_A_3_5.jpg",1,0,0,1,0,0,0,0,0,0
+126,FAM114A1,ENSG00000197712,HPA069701,uncertain,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm,Golgi Apparatus","dataset/HPA-18/Nucleus,Cytoplasm,Golgi Apparatus/153596_A_1_5.jpg",1,1,0,1,0,0,0,0,0,0
+128,ARFGEF1,ENSG00000066777,HPA023822,supported,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm,Golgi Apparatus","dataset/HPA-18/Nucleus,Cytoplasm,Golgi Apparatus/52461_A_3_5.jpg",1,1,0,1,0,0,0,0,0,0
+8873,SIRT1,ENSG00000096717,HPA006295,approved,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Cytoplasm,Mitochondria","dataset/HPA-18/Nucleus,Cytoplasm,Mitochondria/18379_A_3_5.jpg",1,0,1,1,0,0,0,0,0,0
+179,DPY30,ENSG00000162961,HPA043761,supported,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Golgi Apparatus","dataset/HPA-18/Nucleus,Golgi Apparatus/96862_A_3_5.jpg",0,1,0,1,0,0,0,0,0,0
+171,STX6,ENSG00000135823,HPA038557,approved,Breast,Female tissues,medium;high;high,moderate;strong;strong,>75%;>75%;>75%,"Nucleus,Golgi Apparatus","dataset/HPA-18/Nucleus,Golgi Apparatus/79850_B_1_4.jpg",0,1,0,1,0,0,0,0,0,0
+146,TGOLN2,ENSG00000152291,HPA012609,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,"Nucleus,Golgi Apparatus","dataset/HPA-18/Nucleus,Golgi Apparatus/30927_A_8_4.jpg",0,1,0,1,0,0,0,0,0,0
+167,TGOLN2,ENSG00000152291,HPA012723,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Nucleus,Golgi Apparatus","dataset/HPA-18/Nucleus,Golgi Apparatus/31032_A_4_5.jpg",0,1,0,1,0,0,0,0,0,0
+9350,ARGLU1,ENSG00000134884,HPA034962,supported,Prostate,Male tissues,medium,moderate,>75%,"Nucleus,Mitochondria","dataset/HPA-18/Nucleus,Mitochondria/71080_A_3_5.jpg",0,0,1,1,0,0,0,0,0,0
+9334,MRPL40,ENSG00000185608,HPA006181,uncertain,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;75%-25%,"Nucleus,Mitochondria","dataset/HPA-18/Nucleus,Mitochondria/18188_A_7_4.jpg",0,0,1,1,0,0,0,0,0,0
+9315,ARGLU1,ENSG00000134884,HPA034962,supported,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,"Nucleus,Mitochondria","dataset/HPA-18/Nucleus,Mitochondria/71080_A_8_4.jpg",0,0,1,1,0,0,0,0,0,0
+9341,ARGLU1,ENSG00000134884,HPA034962,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Nucleus,Mitochondria","dataset/HPA-18/Nucleus,Mitochondria/71080_A_5_5.jpg",0,0,1,1,0,0,0,0,0,0
+9330,ARGLU1,ENSG00000134884,HPA034962,supported,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,"Nucleus,Mitochondria","dataset/HPA-18/Nucleus,Mitochondria/71080_B_2_4.jpg",0,0,1,1,0,0,0,0,0,0
+9363,SLC25A22,ENSG00000177542,HPA014662,approved,Prostate,Male tissues,high,strong,>75%,"Nucleus,Mitochondria","dataset/HPA-18/Nucleus,Mitochondria/59531_A_2_5.jpg",0,0,1,1,0,0,0,0,0,0
+7399,MYO1C,ENSG00000197879,CAB037023,supported,Prostate,Male tissues,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/80230_A_2_5.jpg,0,0,0,0,0,1,0,0,0,0
+7610,TJP1,ENSG00000104067,HPA001636,enhanced,Prostate,Male tissues,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/6932_A_2_5.jpg,0,0,0,0,0,1,0,0,0,0
+7655,CTNNA1,ENSG00000044115,CAB021089,approved,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/48169_A_7_4.jpg,0,0,0,0,0,1,0,0,0,0
+7390,CTNND1,ENSG00000198561,HPA015954,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/36087_A_4_5.jpg,0,0,0,0,0,1,0,0,0,0
+7463,AFDN,ENSG00000130396,HPA030212,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/62499_A_4_5.jpg,0,0,0,0,0,1,0,0,0,0
+7605,GNB1,ENSG00000078369,HPA040736,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/115315_A_4_5.jpg,0,0,0,0,0,1,0,0,0,0
+7636,TBC1D10A,ENSG00000099992,HPA008142,approved,Prostate,Male tissues,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/22351_A_1_5.jpg,0,0,0,0,0,1,0,0,0,0
+7601,EZR,ENSG00000092820,CAB004035,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/11761_A_4_5.jpg,0,0,0,0,0,1,0,0,0,0
+7394,CTNNA1,ENSG00000044115,HPA046119,approved,Prostate,Male tissues,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/124809_A_2_5.jpg,0,0,0,0,0,1,0,0,0,0
+7585,CTNNB1,ENSG00000168036,HPA029160,supported,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/62939_A_8_4.jpg,0,0,0,0,0,1,0,0,0,0
+7579,NUMB,ENSG00000133961,CAB011478,approved,Liver,Liver & gallbladder,medium;high,moderate;strong,>75%;>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/32627_A_8_4.jpg,0,0,0,0,0,1,0,0,0,0
+7467,EZR,ENSG00000092820,CAB075739,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/164423_A_4_5.jpg,0,0,0,0,0,1,0,0,0,0
+7417,CTNND1,ENSG00000198561,HPA015954,supported,Liver,Liver & gallbladder,medium;low,moderate;weak,>75%;75%-25%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/36087_A_9_4.jpg,0,0,0,0,0,1,0,0,0,0
+7484,CXADR,ENSG00000154639,CAB005103,supported,Prostate,Male tissues,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/12833_A_1_5.jpg,0,0,0,0,0,1,0,0,0,0
+7503,PKP3,ENSG00000184363,CAB012993,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/151868_A_4_5.jpg,0,0,0,0,0,1,0,0,0,0
+7602,CXADR,ENSG00000154639,HPA030412,supported,Prostate,Male tissues,high,strong,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/63355_A_2_5.jpg,0,0,0,0,0,1,0,0,0,0
+7402,S100A4,ENSG00000196154,HPA007973,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/106662_A_5_5.jpg,0,0,0,0,0,1,0,0,0,0
+7400,PKP4,ENSG00000144283,CAB037334,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/80237_A_9_4.jpg,0,0,0,0,0,1,0,0,0,0
+7572,APBB1,ENSG00000166313,HPA038522,approved,Prostate,Male tissues,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/137088_A_2_5.jpg,0,0,0,0,0,1,0,0,0,0
+7456,C11orf52,ENSG00000149300,HPA038388,uncertain,Prostate,Male tissues,high,strong,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/78684_A_1_5.jpg,0,0,0,0,0,1,0,0,0,0
+7401,EZR,ENSG00000092820,HPA021616,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Plasma Membrane,dataset/HPA-18/Plasma Membrane/50443_A_9_4.jpg,0,0,0,0,0,1,0,0,0,0
+7614,CXADR,ENSG00000154639,CAB005103,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/12833_A_6_5.jpg,0,0,0,0,0,1,0,0,0,0
+7672,CTNNA1,ENSG00000044115,CAB021089,approved,Liver,Liver & gallbladder,high;high,strong;strong,>75%;>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/48169_A_8_4.jpg,0,0,0,0,0,1,0,0,0,0
+7621,MYO1C,ENSG00000197879,CAB037023,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/80230_A_5_5.jpg,0,0,0,0,0,1,0,0,0,0
+7534,MYO1B,ENSG00000128641,HPA060144,approved,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/138120_A_8_4.jpg,0,0,0,0,0,1,0,0,0,0
+7460,APBB1,ENSG00000166313,HPA038521,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/137075_A_6_5.jpg,0,0,0,0,0,1,0,0,0,0
+7564,DSG2,ENSG00000046604,HPA004896,enhanced,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Plasma Membrane,dataset/HPA-18/Plasma Membrane/15170_A_8_4.jpg,0,0,0,0,0,1,0,0,0,0
+7658,EZR,ENSG00000092820,HPA021616,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Plasma Membrane,dataset/HPA-18/Plasma Membrane/50443_A_7_4.jpg,0,0,0,0,0,1,0,0,0,0
+7541,CTNNB1,ENSG00000168036,HPA029160,supported,Prostate,Male tissues,high,strong,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/62939_A_1_5.jpg,0,0,0,0,0,1,0,0,0,0
+7659,AFDN,ENSG00000130396,HPA030212,approved,Prostate,Male tissues,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/62499_A_3_5.jpg,0,0,0,0,0,1,0,0,0,0
+7476,EGFR,ENSG00000146648,CAB073534,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Plasma Membrane,dataset/HPA-18/Plasma Membrane/156246_A_5_5.jpg,0,0,0,0,0,1,0,0,0,0
+5240,ENAH,ENSG00000154380,HPA028448,enhanced,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/61178_A_8_4.jpg",1,0,0,0,0,1,0,0,0,0
+5585,CEP162,ENSG00000135315,HPA030170,supported,Breast,Female tissues,medium;medium;high,moderate;moderate;strong,>75%;>75%;>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/67518_B_3_4.jpg",1,0,0,0,0,1,0,0,0,0
+5251,CCDC124,ENSG00000007080,HPA041708,supported,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/91535_A_3_5.jpg",1,0,0,0,0,1,0,0,0,0
+5365,BAIAP2,ENSG00000175866,HPA023310,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/51579_A_6_5.jpg",1,0,0,0,0,1,0,0,0,0
+5609,ENAH,ENSG00000154380,HPA028696,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/61120_A_8_4.jpg",1,0,0,0,0,1,0,0,0,0
+5497,EEF2,ENSG00000167658,CAB007795,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/20895_A_4_5.jpg",1,0,0,0,0,1,0,0,0,0
+5210,PDAP1,ENSG00000106244,HPA050294,approved,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/124604_A_3_5.jpg",1,0,0,0,0,1,0,0,0,0
+5378,ATIC,ENSG00000138363,HPA021012,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/47618_A_5_5.jpg",1,0,0,0,0,1,0,0,0,0
+5341,BAIAP2L1,ENSG00000006453,HPA023874,supported,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/52382_A_2_5.jpg",1,0,0,0,0,1,0,0,0,0
+5480,JPT2,ENSG00000206053,HPA041908,approved,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/90267_A_2_5.jpg",1,0,0,0,0,1,0,0,0,0
+5504,BAIAP2L1,ENSG00000006453,HPA019484,enhanced,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/45323_A_2_5.jpg",1,0,0,0,0,1,0,0,0,0
+5354,CORO1B,ENSG00000172725,HPA070456,supported,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/154820_A_1_5.jpg",1,0,0,0,0,1,0,0,0,0
+5392,CD2AP,ENSG00000198087,HPA003326,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/10181_A_4_5.jpg",1,0,0,0,0,1,0,0,0,0
+5454,ENAH,ENSG00000154380,HPA028448,enhanced,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/61178_A_7_4.jpg",1,0,0,0,0,1,0,0,0,0
+5525,FASN,ENSG00000169710,HPA006461,supported,Breast,Female tissues,high;high;not detected,strong;strong;negative,>75%;75%-25%;none,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/155195_B_1_4.jpg",1,0,0,0,0,1,0,0,0,0
+5483,FLNA,ENSG00000196924,HPA002925,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/8862_A_8_4.jpg",1,0,0,0,0,1,0,0,0,0
+5595,UBQLN2,ENSG00000188021,HPA006431,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/17901_A_5_5.jpg",1,0,0,0,0,1,0,0,0,0
+5286,CCDC124,ENSG00000007080,HPA041708,supported,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/91535_A_2_5.jpg",1,0,0,0,0,1,0,0,0,0
+5512,EEF2,ENSG00000167658,HPA057351,approved,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/138209_A_2_5.jpg",1,0,0,0,0,1,0,0,0,0
+5401,CDC42EP4,ENSG00000179604,HPA023335,approved,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/50966_A_3_5.jpg",1,0,0,0,0,1,0,0,0,0
+5444,MAP2K1,ENSG00000169032,CAB003834,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/10783_A_6_5.jpg",1,0,0,0,0,1,0,0,0,0
+5289,BAG3,ENSG00000151929,HPA020586,supported,Breast,Female tissues,medium;medium;high,moderate;moderate;strong,>75%;>75%;>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/49023_B_2_4.jpg",1,0,0,0,0,1,0,0,0,0
+5578,UBQLN2,ENSG00000188021,HPA006431,enhanced,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;75%-25%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/17901_A_7_4.jpg",1,0,0,0,0,1,0,0,0,0
+5339,ENAH,ENSG00000154380,HPA028448,enhanced,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/61178_A_2_5.jpg",1,0,0,0,0,1,0,0,0,0
+5300,RIPK1,ENSG00000137275,CAB010302,supported,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/31204_A_2_5.jpg",1,0,0,0,0,1,0,0,0,0
+5500,GAPDH,ENSG00000111640,CAB005197,supported,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/15948_A_2_5.jpg",1,0,0,0,0,1,0,0,0,0
+5259,CCDC124,ENSG00000007080,HPA041708,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/91535_A_5_5.jpg",1,0,0,0,0,1,0,0,0,0
+5466,UBAP1,ENSG00000165006,HPA019804,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/51106_A_4_5.jpg",1,0,0,0,0,1,0,0,0,0
+5584,CORO1B,ENSG00000172725,CAB017616,enhanced,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/39995_A_1_5.jpg",1,0,0,0,0,1,0,0,0,0
+5475,PTK2B,ENSG00000120899,HPA026276,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/58606_A_4_5.jpg",1,0,0,0,0,1,0,0,0,0
+5399,UBQLN2,ENSG00000188021,CAB013481,supported,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/32968_A_3_5.jpg",1,0,0,0,0,1,0,0,0,0
+5490,CORO1B,ENSG00000172725,CAB017616,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/39995_A_4_5.jpg",1,0,0,0,0,1,0,0,0,0
+5242,RIPK1,ENSG00000137275,CAB010302,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/31204_A_9_4.jpg",1,0,0,0,0,1,0,0,0,0
+5491,ENO1,ENSG00000074800,CAB069394,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/150509_A_4_5.jpg",1,0,0,0,0,1,0,0,0,0
+5437,FYN,ENSG00000010810,CAB005034,approved,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/13350_A_1_5.jpg",1,0,0,0,0,1,0,0,0,0
+5459,SNX9,ENSG00000130340,HPA031410,approved,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/67447_A_2_5.jpg",1,0,0,0,0,1,0,0,0,0
+5357,BAIAP2,ENSG00000175866,HPA027421,approved,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/57204_A_3_5.jpg",1,0,0,0,0,1,0,0,0,0
+5605,ENAH,ENSG00000154380,HPA028448,enhanced,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/61178_A_3_5.jpg",1,0,0,0,0,1,0,0,0,0
+5439,BAIAP2L1,ENSG00000006453,HPA019484,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/45323_A_6_5.jpg",1,0,0,0,0,1,0,0,0,0
+5306,BAIAP2L1,ENSG00000006453,HPA021257,supported,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/48881_B_1_4.jpg",1,0,0,0,0,1,0,0,0,0
+5329,BAIAP2,ENSG00000175866,HPA023310,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/51579_A_4_5.jpg",1,0,0,0,0,1,0,0,0,0
+5438,PRKCA,ENSG00000154229,CAB003844,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Plasma Membrane,Cytoplasm","dataset/HPA-18/Plasma Membrane,Cytoplasm/10815_A_6_5.jpg",1,0,0,0,0,1,0,0,0,0
+5182,B2M,ENSG00000166710,HPA006361,supported,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Cytoplasm,Golgi Apparatus","dataset/HPA-18/Plasma Membrane,Cytoplasm,Golgi Apparatus/18752_A_2_5.jpg",1,1,0,0,0,1,0,0,0,0
+5202,GCC1,ENSG00000179562,HPA019369,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Cytoplasm,Golgi Apparatus","dataset/HPA-18/Plasma Membrane,Cytoplasm,Golgi Apparatus/44490_A_5_5.jpg",1,1,0,0,0,1,0,0,0,0
+5180,GCC1,ENSG00000179562,HPA021323,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Plasma Membrane,Cytoplasm,Golgi Apparatus","dataset/HPA-18/Plasma Membrane,Cytoplasm,Golgi Apparatus/49039_A_5_5.jpg",1,1,0,0,0,1,0,0,0,0
+229,CD44,ENSG00000026508,HPA005785,supported,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Golgi Apparatus","dataset/HPA-18/Plasma Membrane,Golgi Apparatus/16384_A_2_5.jpg",0,1,0,0,0,1,0,0,0,0
+49,SCRIB,ENSG00000180900,HPA023557,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Nucleus","dataset/HPA-18/Plasma Membrane,Nucleus/51508_A_6_5.jpg",0,0,0,1,0,1,0,0,0,0
+35,SCRIB,ENSG00000180900,HPA023557,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Nucleus","dataset/HPA-18/Plasma Membrane,Nucleus/51508_A_4_5.jpg",0,0,0,1,0,1,0,0,0,0
+48,ADD1,ENSG00000087274,HPA035873,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,"Plasma Membrane,Nucleus","dataset/HPA-18/Plasma Membrane,Nucleus/114847_A_9_4.jpg",0,0,0,1,0,1,0,0,0,0
+27,SCRIB,ENSG00000180900,HPA023557,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,"Plasma Membrane,Nucleus","dataset/HPA-18/Plasma Membrane,Nucleus/51508_A_7_4.jpg",0,0,0,1,0,1,0,0,0,0
+4823,PHGDH,ENSG00000092621,HPA024031,approved,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/158732_A_1_5.jpg",1,0,0,1,0,1,0,0,0,0
+4775,ANXA1,ENSG00000135046,HPA011272,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/29788_A_4_5.jpg",1,0,0,1,0,1,0,0,0,0
+4837,DNAJB4,ENSG00000162616,HPA028385,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/60951_A_6_5.jpg",1,0,0,1,0,1,0,0,0,0
+4807,PPP6R3,ENSG00000110075,HPA038468,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/132569_A_9_4.jpg",1,0,0,1,0,1,0,0,0,0
+4753,NSFL1C,ENSG00000088833,HPA047108,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/111425_A_5_5.jpg",1,0,0,1,0,1,0,0,0,0
+4838,PPP6R3,ENSG00000110075,HPA038468,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/132569_A_8_4.jpg",1,0,0,1,0,1,0,0,0,0
+4756,PHGDH,ENSG00000092621,HPA021241,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/158736_A_4_5.jpg",1,0,0,1,0,1,0,0,0,0
+4795,ANXA1,ENSG00000135046,CAB035987,supported,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/71866_A_1_5.jpg",1,0,0,1,0,1,0,0,0,0
+4784,NF2,ENSG00000186575,CAB005385,supported,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/19505_A_3_5.jpg",1,0,0,1,0,1,0,0,0,0
+4830,STAMBP,ENSG00000124356,HPA035800,uncertain,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/73383_A_5_5.jpg",1,0,0,1,0,1,0,0,0,0
+4793,ANXA1,ENSG00000135046,HPA011271,enhanced,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/29847_A_1_5.jpg",1,0,0,1,0,1,0,0,0,0
+4810,PHGDH,ENSG00000092621,HPA021241,approved,Prostate,Male tissues,high,strong,>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/158736_A_1_5.jpg",1,0,0,1,0,1,0,0,0,0
+4727,NF2,ENSG00000186575,HPA003097,supported,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/8723_A_9_4.jpg",1,0,0,1,0,1,0,0,0,0
+4839,ZBTB33,ENSG00000177485,CAB001980,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Nucleus,Cytoplasm","dataset/HPA-18/Plasma Membrane,Nucleus,Cytoplasm/5440_A_6_5.jpg",1,0,0,1,0,1,0,0,0,0
+261,JUP,ENSG00000173801,HPA032047,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Vesicles","dataset/HPA-18/Plasma Membrane,Vesicles/122459_A_6_5.jpg",0,0,0,0,0,1,1,0,0,0
+240,ATP23,ENSG00000166896,HPA035804,uncertain,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Vesicles","dataset/HPA-18/Plasma Membrane,Vesicles/71893_A_2_5.jpg",0,0,0,0,0,1,1,0,0,0
+257,JUP,ENSG00000173801,HPA032047,supported,Liver,Liver & gallbladder,high;medium,strong;moderate,>75%;75%-25%,"Plasma Membrane,Vesicles","dataset/HPA-18/Plasma Membrane,Vesicles/122459_A_7_4.jpg",0,0,0,0,0,1,1,0,0,0
+108,HIP1R,ENSG00000130787,HPA038136,approved,Prostate,Male tissues,medium,moderate,>75%,"Plasma Membrane,Vesicles,Cytoplasm","dataset/HPA-18/Plasma Membrane,Vesicles,Cytoplasm/125394_A_2_5.jpg",1,0,0,0,0,1,1,0,0,0
+106,HIP1R,ENSG00000130787,HPA038136,approved,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Plasma Membrane,Vesicles,Cytoplasm","dataset/HPA-18/Plasma Membrane,Vesicles,Cytoplasm/125394_A_4_5.jpg",1,0,0,0,0,1,1,0,0,0
+9174,HSD17B4,ENSG00000133835,HPA021302,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/49281_A_4_5.jpg,0,0,0,0,0,0,1,0,0,0
+8951,ECI2,ENSG00000198721,HPA031626,supported,Prostate,Male tissues,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/150110_A_2_5.jpg,0,0,0,0,0,0,1,0,0,0
+9220,CLTA,ENSG00000122705,HPA054667,supported,Prostate,Male tissues,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/134774_A_2_5.jpg,0,0,0,0,0,0,1,0,0,0
+9188,MIA3,ENSG00000154305,HPA056816,supported,Prostate,Male tissues,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/131571_A_1_5.jpg,0,0,0,0,0,0,1,0,0,0
+9106,COPS2,ENSG00000166200,HPA018271,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/47196_A_6_5.jpg,0,0,0,0,0,0,1,0,0,0
+9186,DYRK4,ENSG00000010219,HPA056073,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/140990_A_6_5.jpg,0,0,0,0,0,0,1,0,0,0
+8941,RAB11FIP1,ENSG00000156675,HPA025960,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Vesicles,dataset/HPA-18/Vesicles/56054_A_4_5.jpg,0,0,0,0,0,0,1,0,0,0
+8890,STX16,ENSG00000124222,HPA041019,uncertain,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/92036_A_5_5.jpg,0,0,0,0,0,0,1,0,0,0
+9072,STX16,ENSG00000124222,HPA042033,uncertain,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Vesicles,dataset/HPA-18/Vesicles/92332_B_1_4.jpg,0,0,0,0,0,0,1,0,0,0
+9043,ACBD5,ENSG00000107897,HPA011861,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/29148_A_6_5.jpg,0,0,0,0,0,0,1,0,0,0
+9216,EIF4ENIF1,ENSG00000184708,HPA002078,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Vesicles,dataset/HPA-18/Vesicles/7461_A_4_5.jpg,0,0,0,0,0,0,1,0,0,0
+9162,DYRK4,ENSG00000010219,HPA028065,enhanced,Prostate,Male tissues,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/58701_A_1_5.jpg,0,0,0,0,0,0,1,0,0,0
+9117,ECI2,ENSG00000198721,HPA031626,supported,Prostate,Male tissues,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/150110_A_3_5.jpg,0,0,0,0,0,0,1,0,0,0
+8937,HSD17B4,ENSG00000133835,HPA021479,supported,Prostate,Male tissues,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/49293_A_2_5.jpg,0,0,0,0,0,0,1,0,0,0
+8952,ABCD3,ENSG00000117528,HPA032027,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Vesicles,dataset/HPA-18/Vesicles/67563_A_4_5.jpg,0,0,0,0,0,0,1,0,0,0
+9096,HIP1,ENSG00000127946,CAB015334,supported,Liver,Liver & gallbladder,medium;not detected,moderate;weak,>75%;<25%,Vesicles,dataset/HPA-18/Vesicles/38183_A_7_4.jpg,0,0,0,0,0,0,1,0,0,0
+8922,VPS26A,ENSG00000122958,CAB075733,supported,Prostate,Male tissues,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/159171_A_2_5.jpg,0,0,0,0,0,0,1,0,0,0
+9201,RABEP1,ENSG00000029725,HPA024691,supported,Prostate,Male tissues,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/53969_A_2_5.jpg,0,0,0,0,0,0,1,0,0,0
+8986,VPS26A,ENSG00000122958,CAB011602,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Vesicles,dataset/HPA-18/Vesicles/27115_A_4_5.jpg,0,0,0,0,0,0,1,0,0,0
+9206,STX16,ENSG00000124222,HPA042033,uncertain,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Vesicles,dataset/HPA-18/Vesicles/92332_B_3_4.jpg,0,0,0,0,0,0,1,0,0,0
+9152,HIP1,ENSG00000127946,CAB015334,supported,Liver,Liver & gallbladder,medium;not detected,moderate;weak,>75%;<25%,Vesicles,dataset/HPA-18/Vesicles/38183_A_8_4.jpg,0,0,0,0,0,0,1,0,0,0
+8992,RAB30,ENSG00000137502,HPA054514,approved,Prostate,Male tissues,high,strong,>75%,Vesicles,dataset/HPA-18/Vesicles/127561_A_2_5.jpg,0,0,0,0,0,0,1,0,0,0
+9069,HSD17B4,ENSG00000133835,HPA021479,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/49293_A_4_5.jpg,0,0,0,0,0,0,1,0,0,0
+8966,HSD17B4,ENSG00000133835,HPA021479,supported,Prostate,Male tissues,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/49293_A_1_5.jpg,0,0,0,0,0,0,1,0,0,0
+8923,EIF4ENIF1,ENSG00000184708,HPA001619,enhanced,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/6798_A_4_5.jpg,0,0,0,0,0,0,1,0,0,0
+9202,HIP1,ENSG00000127946,CAB016402,supported,Liver,Liver & gallbladder,high;medium,strong;moderate,>75%;75%-25%,Vesicles,dataset/HPA-18/Vesicles/38187_A_8_4.jpg,0,0,0,0,0,0,1,0,0,0
+9006,RBSN,ENSG00000131381,HPA044878,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/101624_A_4_5.jpg,0,0,0,0,0,0,1,0,0,0
+8916,ABCD3,ENSG00000117528,CAB075749,supported,Breast,Female tissues,medium;high;not detected,moderate;strong;negative,>75%;75%-25%;none,Vesicles,dataset/HPA-18/Vesicles/159191_B_3_4.jpg,0,0,0,0,0,0,1,0,0,0
+8909,RAB5C,ENSG00000108774,HPA003426,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/10659_A_6_5.jpg,0,0,0,0,0,0,1,0,0,0
+9082,HSD17B4,ENSG00000133835,HPA021311,supported,Prostate,Male tissues,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/49285_A_1_5.jpg,0,0,0,0,0,0,1,0,0,0
+8939,SNX2,ENSG00000205302,HPA037400,approved,Liver,Liver & gallbladder,medium;not detected,moderate;negative,>75%;none,Vesicles,dataset/HPA-18/Vesicles/74238_A_9_4.jpg,0,0,0,0,0,0,1,0,0,0
+8914,HSD17B4,ENSG00000133835,HPA021479,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/49293_A_5_5.jpg,0,0,0,0,0,0,1,0,0,0
+9057,ZNF266,ENSG00000174652,HPA026836,uncertain,Breast,Female tissues,medium;medium;medium,moderate;moderate;moderate,>75%;>75%;>75%,Vesicles,dataset/HPA-18/Vesicles/121870_B_1_4.jpg,0,0,0,0,0,0,1,0,0,0
+9075,RAB11FIP1,ENSG00000156675,HPA023904,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Vesicles,dataset/HPA-18/Vesicles/53171_A_5_5.jpg,0,0,0,0,0,0,1,0,0,0
+9225,ABCD3,ENSG00000117528,HPA032026,enhanced,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,Vesicles,dataset/HPA-18/Vesicles/68872_A_5_5.jpg,0,0,0,0,0,0,1,0,0,0
+9134,FAF2,ENSG00000113194,HPA071246,approved,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,Vesicles,dataset/HPA-18/Vesicles/161990_A_6_5.jpg,0,0,0,0,0,0,1,0,0,0
+9930,AP1G1,ENSG00000166747,CAB009049,approved,Prostate,Male tissues,high,strong,>75%,"Vesicles,Cytoplasm","dataset/HPA-18/Vesicles,Cytoplasm/25870_A_3_5.jpg",1,0,0,0,0,0,1,0,0,0
+9907,MAP11,ENSG00000146826,HPA029463,approved,Prostate,Male tissues,medium,moderate,>75%,"Vesicles,Cytoplasm","dataset/HPA-18/Vesicles,Cytoplasm/63910_A_1_5.jpg",1,0,0,0,0,0,1,0,0,0
+9925,ZFYVE16,ENSG00000039319,HPA035935,supported,Prostate,Male tissues,medium,moderate,>75%,"Vesicles,Cytoplasm","dataset/HPA-18/Vesicles,Cytoplasm/79120_A_3_5.jpg",1,0,0,0,0,0,1,0,0,0
+9903,RAB11A,ENSG00000103769,CAB013097,approved,Prostate,Male tissues,medium,moderate,>75%,"Vesicles,Cytoplasm","dataset/HPA-18/Vesicles,Cytoplasm/28459_A_2_5.jpg",1,0,0,0,0,0,1,0,0,0
+9927,EPS15,ENSG00000085832,CAB010164,approved,Prostate,Male tissues,medium,moderate,>75%,"Vesicles,Cytoplasm","dataset/HPA-18/Vesicles,Cytoplasm/24140_A_2_5.jpg",1,0,0,0,0,0,1,0,0,0
+9892,ZFYVE16,ENSG00000039319,HPA035935,supported,Prostate,Male tissues,medium,moderate,>75%,"Vesicles,Cytoplasm","dataset/HPA-18/Vesicles,Cytoplasm/79120_A_1_5.jpg",1,0,0,0,0,0,1,0,0,0
+9304,COPB1,ENSG00000129083,CAB012338,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Vesicles,Cytoplasm,Golgi Apparatus","dataset/HPA-18/Vesicles,Cytoplasm,Golgi Apparatus/28083_A_5_5.jpg",1,1,0,0,0,0,1,0,0,0
+7696,GRN,ENSG00000030582,HPA028747,uncertain,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,"Vesicles,Endoplasmic Reticulum","dataset/HPA-18/Vesicles,Endoplasmic Reticulum/61533_A_7_4.jpg",0,0,0,0,1,0,1,0,0,0
+7697,NSDHL,ENSG00000147383,HPA000571,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Vesicles,Endoplasmic Reticulum","dataset/HPA-18/Vesicles,Endoplasmic Reticulum/1851_A_6_5.jpg",0,0,0,0,1,0,1,0,0,0
+200,DPP7,ENSG00000176978,HPA021282,supported,Prostate,Male tissues,medium,moderate,>75%,"Vesicles,Golgi Apparatus","dataset/HPA-18/Vesicles,Golgi Apparatus/47791_A_1_5.jpg",0,1,0,0,0,0,1,0,0,0
+184,DRAM2,ENSG00000156171,HPA018036,supported,Prostate,Male tissues,high,strong,>75%,"Vesicles,Golgi Apparatus","dataset/HPA-18/Vesicles,Golgi Apparatus/40782_A_2_5.jpg",0,1,0,0,0,0,1,0,0,0
+197,ARCN1,ENSG00000095139,HPA037573,approved,Prostate,Male tissues,medium,moderate,>75%,"Vesicles,Golgi Apparatus","dataset/HPA-18/Vesicles,Golgi Apparatus/77739_A_1_5.jpg",0,1,0,0,0,0,1,0,0,0
+215,DPP7,ENSG00000176978,HPA021282,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Vesicles,Golgi Apparatus","dataset/HPA-18/Vesicles,Golgi Apparatus/47791_A_6_5.jpg",0,1,0,0,0,0,1,0,0,0
+218,DPP7,ENSG00000176978,CAB025541,supported,Breast,Female tissues,high;low;not detected,strong;moderate;negative,>75%;<25%;none,"Vesicles,Golgi Apparatus","dataset/HPA-18/Vesicles,Golgi Apparatus/55065_B_3_4.jpg",0,1,0,0,0,0,1,0,0,0
+7706,AASS,ENSG00000008311,HPA020728,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Vesicles,Mitochondria","dataset/HPA-18/Vesicles,Mitochondria/47594_A_5_5.jpg",0,0,1,0,0,0,1,0,0,0
+9963,HEXIM1,ENSG00000186834,CAB011625,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Vesicles,Nucleus","dataset/HPA-18/Vesicles,Nucleus/31423_A_4_5.jpg",0,0,0,1,0,0,1,0,0,0
+9979,HEXIM1,ENSG00000186834,CAB011625,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,"Vesicles,Nucleus","dataset/HPA-18/Vesicles,Nucleus/31423_A_9_4.jpg",0,0,0,1,0,0,1,0,0,0
+9957,SP2,ENSG00000167182,CAB010245,supported,Urinary bladder,Kidney & urinary bladder,medium,moderate,>75%,"Vesicles,Nucleus","dataset/HPA-18/Vesicles,Nucleus/33725_A_5_5.jpg",0,0,0,1,0,0,1,0,0,0
+9966,HEXIM1,ENSG00000186834,CAB011625,supported,Liver,Liver & gallbladder,medium;medium,moderate;moderate,>75%;>75%,"Vesicles,Nucleus","dataset/HPA-18/Vesicles,Nucleus/31423_A_8_4.jpg",0,0,0,1,0,0,1,0,0,0
+9973,HEXIM1,ENSG00000186834,CAB011625,supported,Breast,Female tissues,medium;high;medium,moderate;strong;moderate,>75%;>75%;>75%,"Vesicles,Nucleus","dataset/HPA-18/Vesicles,Nucleus/31423_B_3_4.jpg",0,0,0,1,0,0,1,0,0,0
+3,RANGAP1,ENSG00000100401,HPA050110,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Vesicles,Nucleus,Cytoplasm","dataset/HPA-18/Vesicles,Nucleus,Cytoplasm/123308_A_6_5.jpg",1,0,0,1,0,0,1,0,0,0
+5,XPO1,ENSG00000082898,HPA042933,supported,Urinary bladder,Kidney & urinary bladder,high,strong,>75%,"Vesicles,Nucleus,Cytoplasm","dataset/HPA-18/Vesicles,Nucleus,Cytoplasm/129950_A_6_5.jpg",1,0,0,1,0,0,1,0,0,0
+7,RANGAP1,ENSG00000100401,HPA050110,supported,Prostate,Male tissues,high,strong,>75%,"Vesicles,Nucleus,Cytoplasm","dataset/HPA-18/Vesicles,Nucleus,Cytoplasm/123308_A_1_5.jpg",1,0,0,1,0,0,1,0,0,0
+143,GRHL1,ENSG00000134317,HPA006420,approved,Prostate,Male tissues,medium,moderate,>75%,"Vesicles,Nucleus,Golgi Apparatus","dataset/HPA-18/Vesicles,Nucleus,Golgi Apparatus/20393_A_2_5.jpg",0,1,0,1,0,0,1,0,0,0
+136,ZNF326,ENSG00000162664,HPA028466,supported,Prostate,Male tissues,medium,moderate,>75%,"Vesicles,Nucleus,Golgi Apparatus","dataset/HPA-18/Vesicles,Nucleus,Golgi Apparatus/60311_A_2_5.jpg",0,1,0,1,0,0,1,0,0,0
