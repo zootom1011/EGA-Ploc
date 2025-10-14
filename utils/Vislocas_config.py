@@ -46,10 +46,10 @@ _C.CLASSIFIER.CLASSES_NUM = 10        # 分类器模型的类别数量，这里�
 # Vislocas
 _C.CLASSIFIER.LOCATIONS = ['cytoplasm', 'cytoskeleton', 'endoplasmic reticulum', 'golgi apparatus', 'lysosomes',
                            'mitochondria',
-                           'nucleoli', 'nucleus', 'plasma membrane', 'vesicles']
+                           'nucleoli', 'nucleus', 'plasma membrane', 'vesicles']   
 
-_C.CLASSIFIER.NECK_DIM = 512
-_C.CLASSIFIER.DROP_RATE = 0
+_C.CLASSIFIER.NECK_DIM = 512    # 分类器模型的颈部 (Neck) 维度，这里是 512 维
+_C.CLASSIFIER.DROP_RATE = 0     # 分类器模型的 Dropout 率，这里是 0，即不使用 Dropout
 _C.CLASSIFIER.ATTN_DROP_RATE = 0
 _C.CLASSIFIER.DROP_PATH_RATE = 0
 _C.CLASSIFIER.HEAD_DROP_RATE = 0.1
