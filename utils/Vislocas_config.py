@@ -1,48 +1,48 @@
 """Configs for Vislocas dataset."""
 from fvcore.common.config import CfgNode
 
-_C = CfgNode()
+_C = CfgNode()  # 定义存放配置的容器，允许通过 · 访问元素
 
 # Output basedir.
-_C.OUTPUT_DIR = "logs"
-_C.RNG_SEED = 6293
-_C.DIST_BACKEND = "nccl"
+_C.OUTPUT_DIR = "logs"  # 输出目录，模型日志、权重文件都会保存在 "logs/" 文件夹目录下
+_C.RNG_SEED = 6293   # 随机种子
+_C.DIST_BACKEND = "nccl"  # 分布式后端，使用 NVIDIA Collective Communication Library (NCCL) 进行通信
 
 # -----------------------------------------------------------------------------
 # Data options
 # -----------------------------------------------------------------------------
-_C.DATA = CfgNode()
-_C.DATA.DATASET = "IHC"
-_C.DATA.DATASET_NAME = ["IHC"]
-_C.DATA.PATH_TO_DATA_DIR = "dataset"
-_C.DATA.RESULT_DIR = "."
+_C.DATA = CfgNode()                  # 数据相关配置节点    
+_C.DATA.DATASET = "IHC"              # 数据集名称，这里是 IHC 数据集
+_C.DATA.DATASET_NAME = ["IHC"]       # 数据集名称列表，包含 IHC 数据集
+_C.DATA.PATH_TO_DATA_DIR = "dataset" # 数据集路径，指向 "dataset/" 文件夹目录
+_C.DATA.RESULT_DIR = "."             # 结果保存路径，指向当前目录 "."
 
-_C.DATA.MEAN = [0.485, 0.456, 0.406]  # The mean value of pixels across the R G B channels.
-_C.DATA.STD = [0.229, 0.224, 0.225]  # The std value of pixels across the R G B channels.
-_C.DATA.CROP_SIZE = 3000  # Image size after cropping
+_C.DATA.MEAN = [0.485, 0.456, 0.406]  # 像素值的均值，分别对应 R、G、B 通道
+_C.DATA.STD = [0.229, 0.224, 0.225]  # 像素值的标准差，分别对应 R、G、B 通道
+_C.DATA.CROP_SIZE = 3000  # 图像裁剪大小，这里是 3000 像素
 
 # ---------------------------------------------------------------------------- #
 # Classifier options.
 # ---------------------------------------------------------------------------- #
-_C.CLASSIFIER = CfgNode()
+_C.CLASSIFIER = CfgNode()  # 分类器相关配置节点
 
-_C.CLASSIFIER.CONSTRUCT = True
-_C.CLASSIFIER.PRETRAIN = False
-_C.CLASSIFIER.TRAIN = True
-_C.CLASSIFIER.CKP = True
-_C.CLASSIFIER.BASE_LR = 5e-5
-_C.CLASSIFIER.HEAD_BASE_LR = 5e-5
-_C.CLASSIFIER.LOSS_FUNC = "mlce"
-_C.CLASSIFIER.EPOCH_NUM = 120
-_C.CLASSIFIER.ACCUMULATION_STEPS = 1
-_C.CLASSIFIER.EVALUATION_STEPS = 5
-_C.CLASSIFIER.PRINT_STEPS = 20
+_C.CLASSIFIER.CONSTRUCT = True  # 是否构造分类器模型
+_C.CLASSIFIER.PRETRAIN = False  # 是否使用预训练模型
+_C.CLASSIFIER.TRAIN = True      # 是否训练分类器模型
+_C.CLASSIFIER.CKP = True        # 是否保存分类器模型的检查点
+_C.CLASSIFIER.BASE_LR = 5e-5    # 分类器模型的基础学习率
+_C.CLASSIFIER.HEAD_BASE_LR = 5e-5 # 分类器模型头的基础学习率
+_C.CLASSIFIER.LOSS_FUNC = "mlce"  # 分类器模型的损失函数，这里是多标签分类损失函数 (Multi-label Cross Entropy)
+_C.CLASSIFIER.EPOCH_NUM = 120     # 分类器模型的训练轮数
+_C.CLASSIFIER.ACCUMULATION_STEPS = 1  # 梯度累加步数，这里是 1 步
+_C.CLASSIFIER.EVALUATION_STEPS = 5    # 每训练 5 个 batch 评估一次模型性能
+_C.CLASSIFIER.PRINT_STEPS = 20        # 每训练 20 个 batch 打印一次训练信息
 
-_C.CLASSIFIER.TEMPERATURE = 1
+_C.CLASSIFIER.TEMPERATURE = 1         # 分类器模型的温度参数，用于温度缩放 (Temperature Scaling)
 
-_C.CLASSIFIER.WEIGHT_DECAY = 0
+_C.CLASSIFIER.WEIGHT_DECAY = 0        # 分类器模型的权重衰减 (Weight Decay) 参数，用于正则化
 
-_C.CLASSIFIER.CLASSES_NUM = 10
+_C.CLASSIFIER.CLASSES_NUM = 10        # 分类器模型的类别数量，这里是 10 类
 # Vislocas
 _C.CLASSIFIER.LOCATIONS = ['cytoplasm', 'cytoskeleton', 'endoplasmic reticulum', 'golgi apparatus', 'lysosomes',
                            'mitochondria',
@@ -86,7 +86,8 @@ _C.DATA_LOADER.PIN_MEMORY = True
 
 def get_cfg():
     """
-    Get a copy of the default config.
+    获取默认配置的副本。
+    返回一个深拷贝的_C对象，避免后续修改影响原始配置。
     """
     return _C.clone()
 
