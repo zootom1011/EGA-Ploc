@@ -42,7 +42,7 @@ Experience EGA-Ploc instantly through our Hugging Face Space:
 
 3. **Download datasets**
    - **Vislocas Dataset**: [Zenodo](https://doi.org/10.5281/zenodo.10632698)
-   - **HPA18 Dataset**: [GraphLoc](http://www.csbio.sjtu.edu.cn/bioinf/GraphLoc) or contact `kooyang@aliyun.com`
+   - **HPA18 Dataset**: [GraphLoc](http://www.csbio.sjtu.edu.cn/bioinf/GraphLoc)
 
 4. **Download pre-trained models** (optional)
    - **Vislocas Model**: [Download Link](https://jxstnueducn-my.sharepoint.com/:f:/g/personal/wanboyang_jxstnu_edu_cn/EpEDB3GcXMZFvRz9lQaBHswBYTEWUDF6ThPBHWqEPB-eUQ?e=jsSoY0)
