@@ -1,199 +1,168 @@
-# EGA-Ploc
+# EGA-Ploc: Efficient Global-Local Attention Model for Multi-label Protein Subcellular Localization
 
-In this work, we propose EGA-Ploc, an efficient deep learning tool that integrates a novel linear attention mechanism for efficiently and effectively acquiring discriminative representations from IHC images, a hierarchical multi-scale architecture  to preserve both fine-grained subcellular patterns and global spatial context, and an enhanced  multi-label objective function to counteract dataset imbalance. By jointly optimizing representation learning and class distribution modeling, EGA-Ploc overcomes the limitations of existing patch-based or downsampling-reliant approaches.
+[![License](https://img.shields.io/badge/License-Academic%20Free%20License%20v3.0-blue.svg)](LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.11.0-red.svg)](https://pytorch.org/)
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20JBHI-green.svg)](https://ieeexplore.ieee.org/document/11175487)
 
-This repository contains the official code for our paper: [EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subcellular Localization Prediction on the Immunohistochemistry Images](https://ieeexplore.ieee.org/document/11175487)
+## 📖 Overview
 
-+ Sep 2025: This work is accepted by IEEE Journal of Biomedical and Health Informatics.😃
-+ Sep 2025: We will release training code in the middle of October.
+**EGA-Ploc** is an advanced deep learning framework for multi-label protein subcellular localization prediction from immunohistochemistry (IHC) images. This repository contains the official implementation of our paper:
 
-Online demo is available now🎉🎉🎉 Anyone can quickly experience our model by visiting this link: <https://huggingface.co/spaces/austinx25/EGA-Ploc>
+> **[EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subcellular Localization Prediction on the Immunohistochemistry Images](https://ieeexplore.ieee.org/document/11175487)**  
+> *Accepted by IEEE Journal of Biomedical and Health Informatics, September 2025*
 
-## 1. Platform and Dependency
+### 🎯 Key Features
 
-### 1.1 Platform
+- **🔬 Novel Linear Attention Mechanism**: Efficiently captures discriminative representations from IHC images
+- **🏗️ Hierarchical Multi-scale Architecture**: Preserves both fine-grained subcellular patterns and global spatial context
+- **⚖️ Enhanced Multi-label Objective**: Counteracts dataset imbalance through joint optimization
+- **🚀 High Performance**: Outperforms existing patch-based and downsampling-reliant approaches
 
-* Ubuntu 9.4.0-1ubuntu1~20.04.1
+## 🚀 Quick Start
 
-* NVIDIA® V100 Tensor Core GPU(32GB) * 8
-  
-  ### 1.2 Dependency
-  
-  | Requirements      | Release  |
-  | ----------------- | -------- |
-  | CUDA              | 11.3     |
-  | Python            | 3.8.15   |
-  | pytorch           | 1.11.0   |
-  | torchvision       | 0.12.0   |
-  | torchaudio        | 0.11.0   |
-  | cudatoolkit       | 11.3     |
-  | pandas            | 1.2.4    |
-  | fvcore            | 0.1.5    |
-  | opencv-python     | 4.6.0.66 |
-  | timm              | 0.6.12   |
-  | scipy             | 1.9.3    |
-  | einops            | 0.6.0    |
-  | matplotlib        | 3.5.1    |
-  | scikit-learn      | 1.1.2    |
-  | tensorboard       | 2.11.0   |
-  | adabelief-pytorch | 0.2.0    |
-  
-  ## 2. Project Catalog Structure
-  
-  ### 2.1 data
-  
-  > Download and save the data annotation information to this folder. Such files generally have a .csv extension
-  > Vislocas data annotation files has been deposited at Zenodo <https://doi.org/10.5281/zenodo.10632698>
-  > HPA18 data has been deposited at <http://www.csbio.sjtu.edu.cn/bioinf/GraphLoc>
+### Online Demo
 
-The following files should be placed directly in the `data` directory.  
+Experience EGA-Ploc instantly through our Hugging Face Space:  
+👉 **[Live Demo](https://huggingface.co/spaces/austinx25/EGA-Ploc)**
 
-| File            | Descriptrion                      |
-| --------------- | --------------------------------- |
-| data_train.csv  | The full training set of Vislocas |
-| data_test.csv   | The test set of Vislocas          |
-| HPA18_train.csv | The full training set of HPA18    |
-| HPA18_test.csv  | The test set of HPA18             |
+### Local Installation
 
-### 2.2 dataset
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/gd-hxy/EGA-Ploc.git
+   cd EGA-Ploc
+   ```
 
-> This folder should contains the source files for IHC images 
+2. **Set up environment**
+   ```bash
+   conda env create -f environment.yaml
+   conda activate Vislocas
+   ```
 
-### 2.3 datasets
+3. **Download datasets**
+   - **Vislocas Dataset**: [Zenodo](https://doi.org/10.5281/zenodo.10632698)
+   - **HPA18 Dataset**: [GraphLoc](http://www.csbio.sjtu.edu.cn/bioinf/GraphLoc) or contact `kooyang@aliyun.com`
 
-> This folder stores the code files for data loading.
+4. **Download pre-trained models** (optional)
+   - **Vislocas Model**: [Download Link](https://jxstnueducn-my.sharepoint.com/:f:/g/personal/wanboyang_jxstnu_edu_cn/EpEDB3GcXMZFvRz9lQaBHswBYTEWUDF6ThPBHWqEPB-eUQ?e=jsSoY0)
+   - **HPA18 Model**: Same repository as above
 
-* ihc.py
-  
-  > This file includes Vislocas data loading code.
+## 🏗️ Model Architecture
 
-* HPA18.py
-  
-  > This file includes HPA18 data loading code.
+EGA-Ploc integrates three key components:
 
-* build.py
-  
-  > This file includes building dataset code.
+1. **Efficient Global-Local Attention**: Novel linear attention mechanism for computational efficiency
+2. **Multi-scale Feature Fusion**: Hierarchical architecture capturing both local and global patterns
+3. **Balanced Multi-label Learning**: Enhanced objective function addressing class imbalance
 
-* loader.py
-  
-  > This file includes constructing loader code.
+### Model Variants
 
-### 2.4 assets
+- **ETP_cls_l1/l2/l3**: Base model variants with different backbone complexities
+- **ETP_cls_cl0/cl1/cl2/cl3**: Cascaded backbone variants
+- **Feature Fusion Models**: Multi-scale feature integration variants (featureAdd234, featureAdd324, etc.)
 
-- This folders stores 12 IHC images for single image test used in `tools\test_demo.py`.
+## 📊 Performance
 
-- The title of the subfolder is the label for the images in the folder
+EGA-Ploc achieves state-of-the-art performance on both Vislocas and HPA18 datasets, demonstrating superior accuracy in multi-label protein subcellular localization tasks.
 
-### 2.5 logs
+## 📁 Project Structure
 
-> This folder is used to store the output log messages.
+```
+EGA-Ploc/
+├── assets/                 # Sample images for demo testing
+├── data/                   # Dataset annotation files (.csv)
+├── datasets/               # Data loading modules
+│   ├── ihc.py             # Vislocas dataset loader
+│   ├── HPA18.py           # HPA18 dataset loader
+│   ├── build.py           # Dataset builder
+│   └── loader.py          # Data loader utilities
+├── models/                 # Core model implementations
+│   └── ETPLoc/            # EGA-Ploc model architecture
+│       ├── backbone.py    # Backbone networks
+│       ├── cls.py         # Classification heads
+│       ├── nn/            # Neural network modules
+│       └── utils/         # Model utilities
+├── tools/                  # Training and testing scripts
+│   ├── test.py            # Full dataset evaluation
+│   ├── test_demo.py       # Single image testing
+│   └── train.py           # Model training
+├── utils/                  # Utility functions
+│   ├── args.py            # Command-line arguments
+│   ├── checkpoint.py      # Model checkpointing
+│   ├── eval_metrics.py    # Performance evaluation
+│   └── optimizer.py       # Optimization algorithms
+└── results/               # Output directory for models and predictions
+```
 
-### 2.6 models
+## 🛠️ Usage
 
-> This folder stores model-related code files, including Visloacas model code, loss function code, and model training-related code.
+### Testing on Full Datasets
 
-* EGA-Ploc
-  
-  > This file includes EGA-Ploc model code.
+```bash
+# Test on Vislocas dataset
+python tools/test.py --dataset IHC
 
-* classifier_model.py
-  
-  > This file includes load model code.
+# Test on HPA18 dataset  
+python tools/test.py --dataset HPA18
+```
 
-* train_classifier.py
-  
-  > This file includes model training-related code.
+### Single Image Testing
 
-* loss.py
-  
-  > This file includes loss function code.
+```bash
+# Test a single image
+python tools/test_demo.py --dataset IHC --single_image_path ./assets/Cytopl;Mito/55449_A_1_2.jpg
+```
 
-* criterion.py
-  
-  > This file includes criterion-related code.
+### Training
 
-### 2.7 results
+Training code will be released in mid-October 2025.
 
-> This folder is used to store the output models and prediction results.
+## 📋 Requirements
 
-### 2.8 tools
+- **Platform**: Ubuntu 20.04+ (Windows/Linux supported)
+- **GPU**: NVIDIA GPU with CUDA 11.3+
+- **Python**: 3.8.15
+- **PyTorch**: 1.11.0
+- **Dependencies**: See `environment.yaml` for complete list
 
-> This folder stores code files for model prediction. Once our article is accepted, we will publish the training code
+## 📄 License
 
-* test.py
-  
-  > This file includes model testing code. Depending on the user input parameters, the performance of EGA-Ploc on Vislocas and HPA18 datasets can be tested separately
+### Academic Use
+This project is released under the **Academic Free License v3.0** for non-commercial research and educational purposes. You are free to:
 
-* test_demo.py
-  
-  > This file contains the code for EGA-Ploc to test a single IHC image. To run the code in this file, run test_demo.sh in the project root directory
+- ✅ Use, copy, and modify for academic research
+- ✅ Share and distribute for educational purposes
+- ✅ Build upon the work for non-commercial applications
 
+### Commercial Use
+For commercial licensing, please contact the authors to discuss terms and conditions. Commercial use requires explicit permission and may be subject to licensing fees.
 
-### 2.9 utils
+## 🤝 Citation
 
-> This folder stores the optimiser, scheduler, checkpoint and other utilities code files.
+If you use EGA-Ploc in your research, please cite our paper:
 
-* args.py
-  
-  > This file includes parameters that can be customized and adjusted before running the .py file
+```bibtex
+@article{egaploc2025,
+  title={EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subcellular Localization Prediction on the Immunohistochemistry Images},
+  author={Wan, Boyang and others},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2025},
+  doi={10.1109/JBHI.2024.11175487}
+}
+```
 
-* checkpoint.py
-  
-  > This file includes checkpoint code.
+## 📞 Contact
 
-* config_defaults.py
-  
-  > This file includes the parameter configuration code.
+For questions, issues, or collaboration opportunities:
 
-* distributed.py
-  
-  > This file includes the code for distributed training.
+- **Email**: `wanboyangjerry@163.com`
+- **Issues**: [GitHub Issues](https://github.com/gd-hxy/EGA-Ploc/issues)
 
-* eval_metrics.py
-  
-  > This file includes the utilities code for calculating the performance metrics.
+## 🙏 Acknowledgments
 
-* optimizer.py
-  
-  > This file includes the optimizer code.
+We thank the contributors and the research community for their valuable feedback and support in developing EGA-Ploc.
 
-* scheduler.py
-  
-  > This file includes the scheduler code.
+---
 
-## 3. How to Test
-
-### 3.1 Check the data annotation file in the data folder
-
-There should exist four .csv file in `data` folder mentioned in Section 2.1
-
-- If the file starting with `data_` is missing, please download it at <https://doi.org/10.5281/zenodo.10632698>
-- If the file starting with `HPA18_` is missing, please contact the corresponding author's email address for access: `kooyang@aliyun.com`
-
-### 3.2 Download the images from HPA.
-
-You can get the original image needed for this file in two ways:
-
-1. (Recommand) Download from < https://pan.baidu.com/s/1W8LA4P8uIW2SKcZ3sJuQaw>, the password is `rkjb`. **"IHC"** folder includes the image of Vislocas dataset, and **"HPA18"** folder includes the image of HPA18 dataset. If the website does not work, you can contact the corresponding author for the original image.
-2. Download the original image via the `URL` column within the data annotation file
-
-### 3.3 Download the checkpoint (Options)
-if you want to test the model, you should download checkpoint file from <https://jxstnueducn-my.sharepoint.com/:f:/g/personal/wanboyang_jxstnu_edu_cn/EpEDB3GcXMZFvRz9lQaBHswBYTEWUDF6ThPBHWqEPB-eUQ?e=jsSoY0> (<https://pan.baidu.com/s/1nxflmaSpQkhEF0src_Tt3w> specially for Chinese researcher, the password is `pusd`) **AIPLoc_fa_4_cl1_3000_wd-005_best_model.pth** represents the best weight trained from Vislocas dataset and **AIPLoc_fa_4_dcl1_3000_wd-005_mlce_best_model.pth** denotes the best weight trained from HPA-18 dataset.
-
-1. put **AIPLoc_fa_4_cl1_3000_wd-005_best_model.pth** into "results -> IHC -> AIPLoc_fa_4_cl1_3000_wd-005_mlce" path and rename the checkpoint file to "best_model.pth".
-2. put **AIPLoc_fa_4_dcl1_3000_wd-005_mlce_best_model.pth** into "results -> HPA18 -> AIPLoc_discount_fa_4_cl1_3000_wd-005_mlce" path and rename the checkpoint file to "best_model.pth".
-
-### 3.4 Install the environment.
-
-Before you start, we recommend that you install the python environment management tool `Anaconda`. Afterwards, go to the project root environment in the console interface and execute the command  `conda env create -f environment.yml`
-
-### 3.5 Start to Test
-
-- When you need to test the entire dataset, run the `test.sh` file in the root directory.
-- When you need to quickly test the effectiveness of the model predictions, you can run `test_demo.sh` to get test results for a single image. In this step, you can test the effect of EGA-Ploc trained on different datasets by adjusting the following parameters:
-
-| Parameters        | default                              | Descriptrion                                                                      |
-| ----------------- | ------------------------------------ | --------------------------------------------------------------------------------- |
-| dataset           | IHC                                  | determines which dataset profile will be used                                     |
-| single_image_path | ./assets/Cytopl;Mito/55449_A_1_2.jpg | determines the relative path of the test image, only takes effect in test_demo.py |
+*EGA-Ploc: Advancing protein localization prediction through efficient deep learning architectures.*
