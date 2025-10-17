@@ -156,7 +156,7 @@ If you use EGA-Ploc in your research, please cite our paper:
 
 For questions, issues, or collaboration opportunities:
 
-- **Email**: `kooyang@aliyun.com`
+- **Email**: `wanboyangjerry@163.com`
 - **Issues**: [GitHub Issues](https://github.com/gd-hxy/EGA-Ploc/issues)
 
 ## 🙏 Acknowledgments
