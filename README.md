@@ -116,7 +116,76 @@ python tools/test_demo.py --dataset IHC --single_image_path ./assets/Cytopl;Mito
 
 ### Training
 
-Training code will be released in mid-October 2025.
+EGA-Ploc supports distributed training on multiple GPUs for efficient model training. The training process includes the following key components:
+
+#### Training Setup
+
+```bash
+# Start distributed training with 8 GPUs
+bash train.sh
+
+# Or run directly with Python
+python -m torch.distributed.launch --nproc_per_node=8 tools/train.py
+```
+
+#### Training Configuration
+
+The training process is configured through `utils/config_defaults.py` with the following key parameters:
+
+- **Model Architecture**: Multiple EGA-Ploc variants including `AIP_discount_fa_4_cl1_3000_wd-005_mlce`
+- **Training Epochs**: 120 epochs with warmup cosine scheduler
+- **Learning Rate**: 5e-5 with AdamW optimizer
+- **Batch Size**: 1 (due to high-resolution IHC images)
+- **Loss Function**: Multi-label balanced cross-entropy to handle class imbalance
+- **Regularization**: L1 and L2 regularization with configurable weights
+- **Mixed Precision**: Enabled for memory efficiency
+
+#### Training Process
+
+1. **Data Loading**: 
+   - Loads training and validation datasets from CSV annotation files
+   - Supports both Vislocas and HPA18 datasets
+   - Applies data augmentation for training set
+
+2. **Model Initialization**:
+   - Constructs EGA-Ploc classifier model
+   - Supports distributed data parallel (DDP) training
+   - Converts batch normalization to synchronized batch norm for multi-GPU training
+
+3. **Optimization**:
+   - **Optimizer**: AdamW with configurable weight decay (0.05, 0.01, 0.005, or 0)
+   - **Scheduler**: Warmup cosine annealing scheduler
+   - **Gradient Scaling**: Automatic mixed precision (AMP) for memory efficiency
+
+4. **Loss Functions**:
+   - **Multi-label Balanced Cross Entropy**: Handles class imbalance in protein localization
+   - **BCE with Logits**: Standard binary cross-entropy option
+   - **Multi-label Categorical Cross Entropy**: Alternative loss function
+
+5. **Training Loop**:
+   - Iterates through training data with periodic validation
+   - Saves best model checkpoints based on validation loss
+   - Supports checkpoint resumption for interrupted training
+   - Logs training progress and metrics
+
+6. **Evaluation**:
+   - Periodic validation every 5 steps
+   - Comprehensive evaluation metrics including precision, recall, F1-score
+   - Multi-GPU synchronized evaluation
+
+#### Supported Datasets
+
+- **Vislocas**: 5 localization classes (cytoplasm, endoplasmic reticulum, mitochondria, nucleus, plasma membrane)
+- **HPA18**: 7 localization classes (Cytoplasm, Golgi Apparatus, Mitochondria, Nucleus, Endoplasmic Reticulum, Plasma Membrane, Vesicles)
+
+#### Model Checkpoints
+
+Training automatically saves:
+- **Latest Model**: For resuming interrupted training
+- **Best Model**: Based on validation performance
+- **Training Logs**: TensorBoard compatible logs for monitoring
+
+To start training, ensure you have downloaded the required datasets and configured the appropriate data paths in the configuration files.
 
 ## 📋 Requirements
 
