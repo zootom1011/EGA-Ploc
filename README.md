@@ -143,12 +143,12 @@ For commercial licensing, please contact the authors to discuss terms and condit
 If you use EGA-Ploc in your research, please cite our paper:
 
 ```bibtex
-@article{egaploc2025,
+@article{wan2025ega,
   title={EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subcellular Localization Prediction on the Immunohistochemistry Images},
-  author={Wan, Boyang and others},
+  author={Wan, Boyang and Huang, Xiaoyang and Qiao, Yang and Peng, Jiajie and Yang, Fan},
   journal={IEEE Journal of Biomedical and Health Informatics},
   year={2025},
-  doi={10.1109/JBHI.2024.11175487}
+  publisher={IEEE}
 }
 ```
 
